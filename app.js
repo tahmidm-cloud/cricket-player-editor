@@ -9,18 +9,26 @@ const EDITABLE_FIELDS = [
   "bowlingStyle"
 ];
 
+const LOCAL_SAVE_KEY = "cricketPlayerEditor.localSave.v1";
+
 let originalWrapper = null;
 let originalText = "";
 let outputMode = "object";
 let players = [];
 let deletedPlayers = 0;
 let loadedFileName = "players.json";
+let autoSaveTimer = null;
 
 const el = {
   file: document.getElementById("jsonFile"),
   download: document.getElementById("downloadBtn"),
+  saveLocal: document.getElementById("saveLocalBtn"),
+  inferBowling: document.getElementById("inferBowlingBtn"),
+  loadLocal: document.getElementById("loadLocalBtn"),
+  clearLocal: document.getElementById("clearLocalBtn"),
   reset: document.getElementById("resetBtn"),
   status: document.getElementById("fileStatus"),
+  localStatus: document.getElementById("localStatus"),
   search: document.getElementById("searchInput"),
   nation: document.getElementById("nationFilter"),
   role: document.getElementById("roleFilter"),
@@ -33,10 +41,16 @@ const el = {
 
 el.file.addEventListener("change", handleFileLoad);
 el.download.addEventListener("click", downloadUpdatedJson);
+el.saveLocal.addEventListener("click", () => saveLocalCopy(true));
+el.inferBowling.addEventListener("click", autoFillAllBowlingFromStyle);
+el.loadLocal.addEventListener("click", loadLocalSave);
+el.clearLocal.addEventListener("click", clearLocalSave);
 el.reset.addEventListener("click", resetLoadedFile);
 el.search.addEventListener("input", renderPlayers);
 el.nation.addEventListener("change", renderPlayers);
 el.role.addEventListener("change", renderPlayers);
+
+updateLocalSaveStatus();
 
 async function handleFileLoad(event) {
   const file = event.target.files?.[0];
@@ -49,6 +63,7 @@ async function handleFileLoad(event) {
     const parsed = JSON.parse(originalText);
     loadDatabase(parsed);
     el.status.textContent = `Loaded ${players.length} players from ${loadedFileName}.`;
+    scheduleAutoSave();
   } catch (error) {
     console.error(error);
     el.status.textContent = "That file is not valid JSON. Load a valid players file.";
@@ -78,6 +93,8 @@ function loadDatabase(parsed) {
 
 function enableControls() {
   el.download.disabled = false;
+  el.saveLocal.disabled = false;
+  el.inferBowling.disabled = false;
   el.reset.disabled = false;
   el.search.disabled = false;
   el.nation.disabled = false;
@@ -110,6 +127,8 @@ function normalizePlayerForEditor(player) {
   for (const field of EDITABLE_FIELDS) {
     if (!(field in p)) p[field] = "";
   }
+
+  applyBowlingInferenceIfUseful(p, false);
 
   return p;
 }
@@ -226,10 +245,17 @@ function createPlayerCard(player) {
 
     input.addEventListener("input", () => {
       player[field] = cleanValue(input.value);
+
+      if (field === "bowlingStyle") {
+        applyBowlingInferenceIfUseful(player, true);
+        refreshBowlingControls(node, player);
+      }
+
       markDirty(node);
       updateCardHeader(node, player);
 
       if (field === "role") rebuildFilters();
+      scheduleAutoSave();
     });
   }
 
@@ -240,6 +266,7 @@ function createPlayerCard(player) {
     select.addEventListener("change", () => {
       setFormatStatus(player, format, select.value);
       markDirty(node);
+      scheduleAutoSave();
     });
   }
 
@@ -282,11 +309,118 @@ function deletePlayer(playerId) {
 
   rebuildFilters();
   renderPlayers();
+  scheduleAutoSave();
+}
+
+function inferBowlingFromStyle(style) {
+  const text = String(style || "").toLowerCase().trim();
+
+  if (!text || text === "does not bowl" || text === "none" || text === "null") {
+    return {
+      bowlingHand: null,
+      bowlingType: null
+    };
+  }
+
+  let bowlingHand = null;
+  let bowlingType = null;
+
+  if (
+    text.includes("left-arm") ||
+    text.includes("left arm") ||
+    text.includes("slow left") ||
+    text.includes("sla")
+  ) {
+    bowlingHand = "left";
+  } else if (
+    text.includes("right-arm") ||
+    text.includes("right arm") ||
+    text.includes("off break") ||
+    text.includes("offbreak") ||
+    text.includes("leg break") ||
+    text.includes("legbreak") ||
+    text.includes("googly")
+  ) {
+    bowlingHand = "right";
+  }
+
+  if (
+    text.includes("fast") ||
+    text.includes("medium") ||
+    text.includes("seam") ||
+    text.includes("swing") ||
+    text.includes("pace")
+  ) {
+    bowlingType = "pace";
+  }
+
+  if (
+    text.includes("spin") ||
+    text.includes("spinner") ||
+    text.includes("orthodox") ||
+    text.includes("off break") ||
+    text.includes("offbreak") ||
+    text.includes("leg break") ||
+    text.includes("legbreak") ||
+    text.includes("googly") ||
+    text.includes("wrist") ||
+    text.includes("chinaman")
+  ) {
+    bowlingType = "spin";
+  }
+
+  return { bowlingHand, bowlingType };
+}
+
+function applyBowlingInferenceIfUseful(player, overwrite = false) {
+  const inferred = inferBowlingFromStyle(player.bowlingStyle);
+
+  if (overwrite || !player.bowlingHand) {
+    player.bowlingHand = inferred.bowlingHand;
+  }
+
+  if (overwrite || !player.bowlingType) {
+    player.bowlingType = inferred.bowlingType;
+  }
+}
+
+function refreshBowlingControls(card, player) {
+  const handControl = card.querySelector('[data-field="bowlingHand"]');
+  const typeControl = card.querySelector('[data-field="bowlingType"]');
+
+  if (handControl) handControl.value = player.bowlingHand || "";
+  if (typeControl) typeControl.value = player.bowlingType || "";
+}
+
+function autoFillAllBowlingFromStyle() {
+  if (!players.length) {
+    el.status.textContent = "Load a JSON file first.";
+    return;
+  }
+
+  let changed = 0;
+
+  for (const player of players) {
+    const beforeHand = player.bowlingHand ?? null;
+    const beforeType = player.bowlingType ?? null;
+
+    applyBowlingInferenceIfUseful(player, true);
+
+    if ((player.bowlingHand ?? null) !== beforeHand || (player.bowlingType ?? null) !== beforeType) {
+      changed += 1;
+    }
+  }
+
+  renderPlayers();
+  scheduleAutoSave();
+  el.status.textContent = `Auto-filled bowling hand/type from bowling style for ${changed} players.`;
 }
 
 function buildOutputJson() {
   const cleanedPlayers = players.map(player => {
     const p = structuredClone(player);
+
+    applyBowlingInferenceIfUseful(p, false);
 
     if (!p.nationalFormats || typeof p.nationalFormats !== "object") {
       p.nationalFormats = {};
@@ -316,6 +450,7 @@ function buildOutputJson() {
     wrapper.metadata.playerCount = cleanedPlayers.length;
     wrapper.metadata.modifiedAt = new Date().toISOString();
     wrapper.metadata.formatRule = "nationalFormats means selectable; formatStatus retired blocks selection.";
+    wrapper.metadata.bowlingInference = "bowlingHand and bowlingType can be inferred from bowlingStyle.";
   }
 
   return wrapper;
@@ -352,6 +487,111 @@ function resetLoadedFile() {
   const parsed = JSON.parse(originalText);
   loadDatabase(parsed);
   el.status.textContent = `Reset ${loadedFileName}.`;
+  scheduleAutoSave();
+}
+
+function scheduleAutoSave() {
+  if (!players.length) return;
+
+  clearTimeout(autoSaveTimer);
+  autoSaveTimer = setTimeout(() => saveLocalCopy(false), 500);
+}
+
+function saveLocalCopy(showMessage = true) {
+  if (!players.length) {
+    el.status.textContent = "Load a JSON file before saving locally.";
+    return;
+  }
+
+  const payload = {
+    savedAt: new Date().toISOString(),
+    fileName: loadedFileName,
+    outputMode,
+    originalWrapper: buildOutputJson(),
+    deletedPlayers
+  };
+
+  try {
+    localStorage.setItem(LOCAL_SAVE_KEY, JSON.stringify(payload));
+    updateLocalSaveStatus();
+
+    if (showMessage) {
+      el.status.textContent = `Saved locally in this browser with ${players.length} players.`;
+    }
+  } catch (error) {
+    console.error(error);
+    el.status.textContent = "Local save failed. Your browser storage may be full or blocked.";
+  }
+}
+
+function loadLocalSave() {
+  const raw = localStorage.getItem(LOCAL_SAVE_KEY);
+
+  if (!raw) {
+    el.status.textContent = "No local save found in this browser.";
+    updateLocalSaveStatus();
+    return;
+  }
+
+  try {
+    const payload = JSON.parse(raw);
+    const data = payload.originalWrapper;
+
+    loadedFileName = payload.fileName || "players.json";
+    outputMode = payload.outputMode || "object";
+    deletedPlayers = payload.deletedPlayers || 0;
+    originalText = JSON.stringify(data, null, 2);
+
+    loadDatabase(data);
+    el.status.textContent = `Loaded local save from ${formatSavedDate(payload.savedAt)}.`;
+    updateLocalSaveStatus();
+  } catch (error) {
+    console.error(error);
+    el.status.textContent = "Local save is damaged. Clear it and load your JSON again.";
+  }
+}
+
+function clearLocalSave() {
+  if (!confirm("Clear the saved local copy from this browser?")) return;
+
+  localStorage.removeItem(LOCAL_SAVE_KEY);
+  updateLocalSaveStatus();
+  el.status.textContent = "Local save cleared.";
+}
+
+function updateLocalSaveStatus() {
+  const raw = localStorage.getItem(LOCAL_SAVE_KEY);
+
+  el.localStatus.classList.remove("has-save", "no-save");
+
+  if (!raw) {
+    el.localStatus.textContent = "Local save: none yet.";
+    el.localStatus.classList.add("no-save");
+    return;
+  }
+
+  try {
+    const payload = JSON.parse(raw);
+    const count = Array.isArray(payload?.originalWrapper)
+      ? payload.originalWrapper.length
+      : payload?.originalWrapper?.players?.length;
+
+    el.localStatus.textContent = `Local save: ${count ?? "?"} players saved on ${formatSavedDate(payload.savedAt)}.`;
+    el.localStatus.classList.add("has-save");
+  } catch {
+    el.localStatus.textContent = "Local save: found, but it may be damaged.";
+    el.localStatus.classList.add("no-save");
+  }
+}
+
+function formatSavedDate(iso) {
+  if (!iso) return "unknown date";
+
+  try {
+    return new Date(iso).toLocaleString();
+  } catch {
+    return iso;
+  }
 }
 
 /*

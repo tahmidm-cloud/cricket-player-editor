@@ -14,7 +14,7 @@
         <p class="eyebrow">Cricket Manager Database Tool</p>
         <h1>Player Profile Editor</h1>
         <p class="subtext">
-          GitHub Pages-ready editor for deleting players, editing profile fields, and controlling national format selection.
+          GitHub Pages-ready editor with local browser save, iPhone-friendly layout, player deletion, profile editing, and format control.
         </p>
       </div>
     </header>
@@ -32,10 +32,15 @@
 
         <div class="action-grid">
           <button id="downloadBtn" class="primary-btn" disabled>Download Updated JSON</button>
+          <button id="saveLocalBtn" class="secondary-btn" disabled>Save Local Copy</button>
+          <button id="inferBowlingBtn" class="secondary-btn" disabled>Auto-Fill Bowling</button>
+          <button id="loadLocalBtn" class="secondary-btn">Load Local Save</button>
+          <button id="clearLocalBtn" class="danger-outline-btn">Clear Local Save</button>
           <button id="resetBtn" class="secondary-btn" disabled>Reset Loaded File</button>
         </div>
 
         <div id="fileStatus" class="status-line">No file loaded yet.</div>
+        <div id="localStatus" class="local-status">Local save: checking...</div>
       </section>
 
       <section class="panel rule-panel">

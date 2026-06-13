@@ -8,6 +8,7 @@
   --accent: #49d3ff;
   --accent-2: #7cf7c8;
   --danger: #ff5c7a;
+  --warning: #ffd166;
   --input: #0a1727;
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.32);
   --radius: 22px;
@@ -131,15 +132,15 @@ h1 {
 
 .action-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, 1fr);
   gap: 10px;
 }
 
 .primary-btn,
 .secondary-btn,
+.danger-outline-btn,
 .delete-btn {
   min-height: 46px;
-  border: 0;
   border-radius: 15px;
   font-weight: 800;
   cursor: pointer;
@@ -147,6 +148,7 @@ h1 {
 
 .primary-btn {
   color: #03101b;
+  border: 0;
   background: linear-gradient(135deg, var(--accent), var(--accent-2));
 }
 
@@ -156,16 +158,32 @@ h1 {
   background: rgba(255, 255, 255, 0.07);
 }
 
+.danger-outline-btn {
+  color: white;
+  border: 1px solid rgba(255, 92, 122, 0.48);
+  background: rgba(255, 92, 122, 0.12);
+}
+
 .primary-btn:disabled,
-.secondary-btn:disabled {
+.secondary-btn:disabled,
+.danger-outline-btn:disabled {
   opacity: 0.45;
   cursor: not-allowed;
 }
 
-.status-line {
+.status-line,
+.local-status {
   color: var(--muted);
   font-size: 0.92rem;
   line-height: 1.4;
+}
+
+.local-status.has-save {
+  color: var(--accent-2);
+}
+
+.local-status.no-save {
+  color: var(--warning);
 }
 
 .rule-panel {

@@ -19,6 +19,36 @@ It edits only:
 
 It preserves the rest of each player object.
 
+## Bowling style auto-fill
+
+The editor can infer `bowlingHand` and `bowlingType` from `bowlingStyle`.
+
+Examples:
+
+- `Right-arm fast-medium` → `bowlingHand: right`, `bowlingType: pace`
+- `Left-arm fast` → `bowlingHand: left`, `bowlingType: pace`
+- `Off Break` → `bowlingHand: right`, `bowlingType: spin`
+- `Slow left-arm orthodox` → `bowlingHand: left`, `bowlingType: spin`
+- `Legbreak googly` → `bowlingHand: right`, `bowlingType: spin`
+
+Use the **Auto-Fill Bowling** button to update everyone from their bowling style.
+When you manually edit a player's `bowlingStyle`, that player's bowling hand/type update automatically.
+
+## Local save
+
+This version has browser local save.
+
+Buttons:
+
+- **Save Local Copy**: saves your current work in the browser.
+- **Load Local Save**: reloads the saved browser copy later.
+- **Clear Local Save**: removes the browser saved copy.
+- **Download Updated JSON**: creates the final JSON file you should use in your app.
+
+The editor also auto-saves shortly after edits.
+
+Important: local save is stored only in that browser/device. If you switch phone/computer, clear browser data, or use private browsing, the saved copy may not be there. Always download the final updated JSON when finished.
+
 ## Important format logic
 
 Use this meaning:
@@ -87,4 +117,4 @@ This site is responsive and optimized for small screens around 393px wide, inclu
 
 ## Privacy note
 
-This editor does not upload your JSON anywhere. It reads the file inside the browser and downloads a new edited copy.
+This editor does not upload your JSON anywhere. It reads the file inside the browser, saves progress in browser storage, and downloads a new edited copy.
