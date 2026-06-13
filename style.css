@@ -1,0 +1,474 @@
+:root {
+  --bg: #07121f;
+  --panel: rgba(15, 28, 46, 0.94);
+  --panel-2: rgba(20, 38, 61, 0.96);
+  --text: #edf6ff;
+  --muted: #99acc3;
+  --line: rgba(255, 255, 255, 0.12);
+  --accent: #49d3ff;
+  --accent-2: #7cf7c8;
+  --danger: #ff5c7a;
+  --input: #0a1727;
+  --shadow: 0 20px 60px rgba(0, 0, 0, 0.32);
+  --radius: 22px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: var(--bg);
+}
+
+body {
+  margin: 0;
+  min-height: 100%;
+  color: var(--text);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background:
+    radial-gradient(circle at 15% 0%, rgba(73, 211, 255, 0.24), transparent 32rem),
+    radial-gradient(circle at 95% 12%, rgba(124, 247, 200, 0.14), transparent 28rem),
+    linear-gradient(160deg, #07121f 0%, #091827 45%, #06101d 100%);
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.app-shell {
+  width: min(100%, 1060px);
+  margin: 0 auto;
+  padding: max(18px, env(safe-area-inset-top)) 16px max(26px, env(safe-area-inset-bottom));
+}
+
+.hero {
+  padding: 22px 4px 16px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--accent-2);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2rem, 9vw, 4.1rem);
+  line-height: 0.92;
+  letter-spacing: -0.06em;
+}
+
+.subtext {
+  max-width: 680px;
+  margin: 14px 0 0;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--panel);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(18px);
+}
+
+.upload-panel {
+  display: grid;
+  gap: 14px;
+  padding: 14px;
+}
+
+.file-picker {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  min-height: 86px;
+  padding: 16px;
+  border: 1px dashed rgba(73, 211, 255, 0.45);
+  border-radius: 18px;
+  background: rgba(73, 211, 255, 0.07);
+  cursor: pointer;
+}
+
+.file-picker strong,
+.file-picker small {
+  display: block;
+}
+
+.file-picker small {
+  margin-top: 4px;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+.file-icon {
+  display: grid;
+  place-items: center;
+  flex: 0 0 48px;
+  width: 48px;
+  height: 48px;
+  border-radius: 16px;
+  color: #00111b;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  font-weight: 900;
+}
+
+#jsonFile {
+  display: none;
+}
+
+.action-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.primary-btn,
+.secondary-btn,
+.delete-btn {
+  min-height: 46px;
+  border: 0;
+  border-radius: 15px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.primary-btn {
+  color: #03101b;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+}
+
+.secondary-btn {
+  color: var(--text);
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.primary-btn:disabled,
+.secondary-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.status-line {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+.rule-panel {
+  margin-top: 14px;
+  padding: 16px;
+}
+
+.rule-panel h2 {
+  margin: 0 0 8px;
+  font-size: 1.05rem;
+}
+
+.rule-panel p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
+.rule-examples {
+  display: grid;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.rule-examples span {
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  color: #d8ecff;
+  background: rgba(255, 255, 255, 0.045);
+  font-size: 0.9rem;
+}
+
+.tools {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(120px, 0.75fr) minmax(120px, 0.75fr);
+  gap: 10px;
+  margin: 14px 0;
+  padding: 10px 0;
+  background: linear-gradient(180deg, rgba(7, 18, 31, 0.98), rgba(7, 18, 31, 0.82));
+  backdrop-filter: blur(18px);
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+  padding: 0 12px;
+  min-height: 48px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--input);
+}
+
+.search-box input {
+  width: 100%;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  color: var(--text);
+  background: transparent;
+}
+
+.tools select,
+.editor-grid input,
+.editor-grid select,
+.formats select {
+  width: 100%;
+  min-height: 46px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  outline: 0;
+  color: var(--text);
+  background: var(--input);
+  padding: 0 12px;
+}
+
+.tools select:disabled,
+.search-box input:disabled {
+  opacity: 0.5;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 9px;
+  margin-bottom: 14px;
+}
+
+.summary-card {
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.055);
+}
+
+.summary-card span,
+.summary-card strong {
+  display: block;
+}
+
+.summary-card span {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.summary-card strong {
+  margin-top: 3px;
+  font-size: 1.45rem;
+}
+
+.summary-card.danger strong {
+  color: var(--danger);
+}
+
+.players-list {
+  display: grid;
+  gap: 14px;
+}
+
+.empty-state {
+  padding: 44px 20px;
+  text-align: center;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.empty-state h2 {
+  margin: 0 0 8px;
+}
+
+.empty-state p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.player-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--panel-2);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.18);
+  overflow: hidden;
+}
+
+.card-top {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 15px;
+  border-bottom: 1px solid var(--line);
+}
+
+.id-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 24px;
+  padding: 0 9px;
+  border-radius: 999px;
+  color: #07121f;
+  background: var(--accent-2);
+  font-size: 0.77rem;
+  font-weight: 900;
+}
+
+.card-title {
+  margin: 9px 0 4px;
+  font-size: 1.18rem;
+  letter-spacing: -0.02em;
+}
+
+.card-meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.delete-btn {
+  flex: 0 0 auto;
+  min-height: 38px;
+  padding: 0 12px;
+  color: white;
+  background: rgba(255, 92, 122, 0.18);
+  border: 1px solid rgba(255, 92, 122, 0.38);
+}
+
+.editor-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+  padding: 15px;
+}
+
+.editor-grid label,
+.formats label {
+  display: grid;
+  gap: 7px;
+  min-width: 0;
+}
+
+.editor-grid label span,
+.formats label span {
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.editor-grid .wide {
+  grid-column: 1 / -1;
+}
+
+.formats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  padding: 15px;
+  border-top: 1px solid var(--line);
+  background: rgba(0, 0, 0, 0.09);
+}
+
+.format-heading {
+  grid-column: 1 / -1;
+  color: var(--accent);
+  font-size: 0.8rem;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+}
+
+.dirty {
+  outline: 2px solid rgba(73, 211, 255, 0.45);
+}
+
+@media (max-width: 640px) {
+  .app-shell {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .action-grid,
+  .tools,
+  .editor-grid,
+  .formats {
+    grid-template-columns: 1fr;
+  }
+
+  .tools {
+    top: env(safe-area-inset-top);
+  }
+
+  .summary-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .summary-card {
+    padding: 10px;
+  }
+
+  .summary-card strong {
+    font-size: 1.22rem;
+  }
+
+  .card-top {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .delete-btn {
+    width: 100%;
+  }
+}
+
+/* iPhone 15 Pro width is 393px. */
+@media (max-width: 430px) {
+  h1 {
+    font-size: 2.35rem;
+  }
+
+  .subtext {
+    font-size: 0.95rem;
+  }
+
+  .file-picker {
+    align-items: flex-start;
+  }
+
+  .file-icon {
+    flex-basis: 42px;
+    width: 42px;
+    height: 42px;
+  }
+
+  .summary-card span {
+    font-size: 0.66rem;
+  }
+}

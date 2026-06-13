@@ -1,0 +1,56 @@
+{
+  "format": "cm25-player-database",
+  "version": "profile-editor-sample",
+  "metadata": {
+    "playerCount": 2,
+    "formatRule": "nationalFormats means selectable; formatStatus retired blocks selection."
+  },
+  "players": [
+    {
+      "id": "1070173",
+      "name": "Abhishek Sharma",
+      "fullName": "Abhishek Sharma",
+      "age": 25,
+      "nationality": "India",
+      "role": "all-rounder",
+      "battingHand": "left",
+      "bowlingHand": "left",
+      "bowlingType": "spin",
+      "bowlingStyle": "Slow left-arm orthodox",
+      "DOB": "04-09-2000",
+      "nationalFormats": {
+        "test": true,
+        "odi": true,
+        "t20": true
+      },
+      "formatStatus": {
+        "test": "eligible",
+        "odi": "eligible",
+        "t20": "eligible"
+      }
+    },
+    {
+      "id": "253802",
+      "name": "Virat Kohli",
+      "fullName": "Virat Kohli",
+      "age": 37,
+      "nationality": "India",
+      "role": "batsman",
+      "battingHand": "right",
+      "bowlingHand": "right",
+      "bowlingType": "pace",
+      "bowlingStyle": "Right-arm medium",
+      "DOB": "05-11-1988",
+      "nationalFormats": {
+        "test": false,
+        "odi": true,
+        "t20": false
+      },
+      "formatStatus": {
+        "test": "retired",
+        "odi": "eligible",
+        "t20": "retired"
+      }
+    }
+  ]
+}

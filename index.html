@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#07121f" />
+  <title>Cricket Player Profile Editor</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Cricket Manager Database Tool</p>
+        <h1>Player Profile Editor</h1>
+        <p class="subtext">
+          GitHub Pages-ready editor for deleting players, editing profile fields, and controlling national format selection.
+        </p>
+      </div>
+    </header>
+
+    <main>
+      <section class="panel upload-panel">
+        <label class="file-picker" for="jsonFile">
+          <span class="file-icon">⬆</span>
+          <span>
+            <strong>Load players JSON</strong>
+            <small>Works with { players: [...] } or a plain player array.</small>
+          </span>
+        </label>
+        <input id="jsonFile" type="file" accept=".json,application/json" />
+
+        <div class="action-grid">
+          <button id="downloadBtn" class="primary-btn" disabled>Download Updated JSON</button>
+          <button id="resetBtn" class="secondary-btn" disabled>Reset Loaded File</button>
+        </div>
+
+        <div id="fileStatus" class="status-line">No file loaded yet.</div>
+      </section>
+
+      <section class="panel rule-panel">
+        <h2>Format rule</h2>
+        <p>
+          <strong>Eligible</strong> means selectable for that format. A player can be eligible even if he has not played
+          that format yet. <strong>Retired</strong> blocks selection for that format.
+        </p>
+        <div class="rule-examples">
+          <span>Abhishek Sharma type: eligible in Test, ODI, and T20 if you want him selectable.</span>
+          <span>Virat Kohli type: Test/T20 retired means blocked, ODI eligible means selectable.</span>
+        </div>
+      </section>
+
+      <section class="tools">
+        <div class="search-box">
+          <span>🔎</span>
+          <input id="searchInput" type="search" placeholder="Search name, nation, role..." disabled />
+        </div>
+
+        <select id="nationFilter" disabled>
+          <option value="">All nations</option>
+        </select>
+
+        <select id="roleFilter" disabled>
+          <option value="">All roles</option>
+        </select>
+      </section>
+
+      <section class="summary-grid">
+        <div class="summary-card">
+          <span>Total</span>
+          <strong id="totalCount">0</strong>
+        </div>
+        <div class="summary-card">
+          <span>Showing</span>
+          <strong id="shownCount">0</strong>
+        </div>
+        <div class="summary-card danger">
+          <span>Deleted</span>
+          <strong id="deletedCount">0</strong>
+        </div>
+      </section>
+
+      <section id="playersList" class="players-list">
+        <div class="empty-state">
+          <h2>Load your JSON to begin</h2>
+          <p>Your data stays in your browser. Nothing is uploaded anywhere.</p>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <template id="playerCardTemplate">
+    <article class="player-card">
+      <div class="card-top">
+        <div>
+          <div class="id-pill"></div>
+          <h3 class="card-title"></h3>
+          <p class="card-meta"></p>
+        </div>
+        <button class="delete-btn" type="button">Delete Player</button>
+      </div>
+
+      <div class="editor-grid">
+        <label>
+          <span>Name</span>
+          <input data-field="name" type="text" />
+        </label>
+
+        <label>
+          <span>Full Name</span>
+          <input data-field="fullName" type="text" />
+        </label>
+
+        <label>
+          <span>Role</span>
+          <select data-field="role">
+            <option value="">—</option>
+            <option value="batsman">batsman</option>
+            <option value="bowler">bowler</option>
+            <option value="all-rounder">all-rounder</option>
+            <option value="wicketkeeper">wicketkeeper</option>
+            <option value="wicketkeeper-batsman">wicketkeeper-batsman</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Batting Hand</span>
+          <select data-field="battingHand">
+            <option value="">—</option>
+            <option value="right">right</option>
+            <option value="left">left</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Bowling Hand</span>
+          <select data-field="bowlingHand">
+            <option value="">—</option>
+            <option value="right">right</option>
+            <option value="left">left</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Bowling Type</span>
+          <select data-field="bowlingType">
+            <option value="">—</option>
+            <option value="pace">pace</option>
+            <option value="spin">spin</option>
+          </select>
+        </label>
+
+        <label class="wide">
+          <span>Bowling Style</span>
+          <input data-field="bowlingStyle" type="text" list="bowlingStyles" />
+        </label>
+      </div>
+
+      <div class="formats">
+        <div class="format-heading">National Format Selection</div>
+
+        <label>
+          <span>Test</span>
+          <select data-format="test">
+            <option value="eligible">Eligible / Selectable</option>
+            <option value="retired">Retired / Blocked</option>
+            <option value="unavailable">Unavailable</option>
+          </select>
+        </label>
+
+        <label>
+          <span>ODI</span>
+          <select data-format="odi">
+            <option value="eligible">Eligible / Selectable</option>
+            <option value="retired">Retired / Blocked</option>
+            <option value="unavailable">Unavailable</option>
+          </select>
+        </label>
+
+        <label>
+          <span>T20</span>
+          <select data-format="t20">
+            <option value="eligible">Eligible / Selectable</option>
+            <option value="retired">Retired / Blocked</option>
+            <option value="unavailable">Unavailable</option>
+          </select>
+        </label>
+      </div>
+    </article>
+  </template>
+
+  <datalist id="bowlingStyles">
+    <option value="Right-arm fast"></option>
+    <option value="Right-arm fast-medium"></option>
+    <option value="Right-arm medium-fast"></option>
+    <option value="Right-arm medium"></option>
+    <option value="Left-arm fast"></option>
+    <option value="Left-arm fast-medium"></option>
+    <option value="Left-arm medium-fast"></option>
+    <option value="Left-arm medium"></option>
+    <option value="Off Break"></option>
+    <option value="Leg Break"></option>
+    <option value="Legbreak googly"></option>
+    <option value="Slow left-arm orthodox"></option>
+    <option value="Left-arm wrist spin"></option>
+  </datalist>
+
+  <script src="app.js"></script>
+</body>
+</html>
