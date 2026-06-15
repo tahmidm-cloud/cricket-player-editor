@@ -1,0 +1,734 @@
+playerId,name,fullName,nationality,role,battingHand,playerJsonBowlingType,playerJsonBowlingHand,playerJsonBowlingStyle,metadataFoundForSameId,metadataName,metadataCountry,metadataBowlingType,metadataBowlingHand,metadataBowlingStyle,hasCricsheetRegisterMatch,cricsheetId
+1326798,AM Ghazanfar,AM Ghazanfar,Afghanistan,bowler,right,spin,right,Off Break,yes,AM Ghazanfar,Afghanistan,spin,right,Right-arm offbreak,yes,9ca68676
+1059030,Abdul Malik,Abdul Malik,Afghanistan,bowler,right,spin,right,Off Break,yes,Abdul Malik,Afghanistan,spin,right,Right-arm offbreak,yes,b3218c80
+974173,Abdul Noori,Abdul Wasi Noori,Afghanistan,bowler,right,spin,right,Leg Break,yes,Abdul Wasi,Afghanistan,spin,right,Legbreak,yes,be7d715b
+420402,Afsar Zazai,Afsar Khan Zazai,Afghanistan,wicketkeeper,right,,,,yes,Afsar Zazai,Afghanistan,,,,yes,50930025
+402245,Amir Hamza,Amir Hamza,Afghanistan,all-rounder,,,,,no,,,,,,yes,dca1ac2e
+819429,Azmatullah Omarzai,Azmatullah Omarzai,Afghanistan,all-rounder,right,pace,right,Right-arm medium-fast,yes,Azmatullah Omarzai,Afghanistan,pace,right,Right-arm medium-fast,yes,8f6dd463
+1174726,Bilal Sami,Bilal Sami,Afghanistan,bowler,right,pace,right,Right-arm medium,yes,Bilal Sami,Afghanistan,pace,right,Right-arm medium,yes,4fef092b
+819441,Darwish Rasooli,Darwish Rasooli,Afghanistan,batsman,right,spin,right,Off Break,yes,Darwish Rasooli,Afghanistan,spin,right,Right-arm offbreak,yes,3b2114a5
+568136,Fareed Malik,Fareed Ahmad Malik,Afghanistan,bowler,left,pace,left,Left-arm fast-medium,yes,Fareed Ahmad,Afghanistan,pace,left,Left-arm fast-medium,yes,67b7bad4
+976429,Farmanullah Safi,Farmanullah Safi,Afghanistan,bowler,left,pace,right,Right-arm medium-fast,yes,Farmanullah,Afghanistan,pace,right,Right-arm medium-fast,yes,3f607519
+974175,Fazalhaq Farooqi,Fazalhaq Farooqi,Afghanistan,all-rounder,right,pace,left,Left-arm fast-medium,yes,Fazalhaq Farooqi,Afghanistan,pace,left,Left-arm fast-medium,yes,e9c7f0d0
+352048,Gulbadin Naib,Gulbadin Naib,Afghanistan,all-rounder,right,pace,right,Right-arm medium-fast,yes,Gulbadin Naib,Afghanistan,pace,right,Right-arm medium-fast,yes,9f77963a
+311427,Hamid Hassan,Hamid Hassan,Afghanistan,all-rounder,right,pace,right,Right-arm fast,yes,Hamid Hassan,Afghanistan,pace,right,Right-arm fast,yes,093ae70b
+440970,Hashmatullah Shahidi,Hashmatullah Shahidi,Afghanistan,batsman,left,spin,right,Off Break,yes,Hashmatullah Shahidi,Afghanistan,spin,right,Right-arm offbreak,yes,c2a46cb4
+921509,Ibrahim Zadran,Ibrahim Zadran,Afghanistan,batsman,right,pace,right,Right-arm medium-fast,yes,Ibrahim Zadran,Afghanistan,pace,right,Right-arm medium-fast,yes,d4550956
+1276922,Ijaz Ahmadzai,Ijaz Ahmad Ahmadzai,Afghanistan,bowler,right,pace,right,Right-arm medium,yes,Ijaz Ahmad Ahmadzai,Afghanistan,pace,right,Right-arm medium,yes,4d4dbd57
+935553,Ikram Alikhil,Ikram Alikhil,Afghanistan,wicketkeeper,left,,,,yes,Ikram Alikhil,Afghanistan,,,,yes,f67c958d
+1094444,Ismat Alam,Ismat Alam,Afghanistan,all-rounder,right,pace,right,Right-arm fast-medium,yes,Ismat Alam,Afghanistan,pace,right,Right-arm fast-medium,yes,7c8a1fd7
+793467,Karim Janat,Karim Janat,Afghanistan,all-rounder,right,pace,right,Right-arm medium,yes,Karim Janat,Afghanistan,pace,right,Right-arm medium,yes,62175638
+1196075,Khalil Gurbaz,Khalil Gurbaz,Afghanistan,bowler,right,spin,right,Leg Break,yes,Khalil Gurbaz,Afghanistan,spin,right,Legbreak,yes,1b50e3c8
+308235,Mohammad Ahmadi,Mohammad Javed Ahmadi,Afghanistan,all-rounder,right,spin,right,Off Break,yes,Javed Ahmadi,Afghanistan,spin,right,Right-arm offbreak,yes,0087a35d
+440968,Mohammad Ahmadzai,Mohammad Yamin Ahmadzai,Afghanistan,bowler,right,pace,right,Right-arm medium-fast,yes,Yamin Ahmadzai,Afghanistan,pace,right,Right-arm medium-fast,yes,6e4588bc
+1076579_SPLIT_T20_UNKNOWN,Mohammad Ishaq,Mohammad Ishaq,Afghanistan,batsman,,,,,no,,,,,,no,
+25913,Mohammad Nabi,Mohammad Nabi,Afghanistan,all-rounder,right,spin,right,Off Break,yes,Mohammad Nabi,Afghanistan,spin,right,Right-arm offbreak,yes,62af8546
+1174749,Mohammad Safi,Mohammad Saleem Safi,Afghanistan,bowler,right,pace,right,Right-arm fast,yes,Mohammad Saleem,Afghanistan,pace,right,Right-arm fast,yes,938bff19
+1276921,Mohammad Zadran,Mohammad Naveed Zadran,Afghanistan,bowler,right,pace,right,Right-arm medium,yes,Naveed Zadran,Afghanistan,pace,right,Right-arm medium,yes,e6b6d352
+974109,Mujeeb Rahman,Mujeeb Ur Rahman,Afghanistan,all-rounder,right,spin,right,Off Break,yes,Mujeeb Ur Rahman,Afghanistan,spin,right,Right-arm offbreak,yes,7d92277a
+633399,Munir Ahmad,Munir Ahmad,Afghanistan,batsman,right,,,,yes,Munir Ahmad,Afghanistan,,,,yes,ec02c853
+524049,Najibullah Zadran,Najibullah Zadran,Afghanistan,batsman,left,spin,right,Off Break,yes,Najibullah Zadran,Afghanistan,spin,right,Right-arm offbreak,yes,1212cbec
+1199434,Nangeyalia Kharote,Nangeyalia Kharote,Afghanistan,bowler,left,spin,left,Slow left-arm orthodox,yes,Nangeyalia Kharote,Afghanistan,spin,left,Slow left-arm orthodox,yes,75b8e198
+524048,Nasir Jamal,Nasir Jamal,Afghanistan,batsman,right,spin,right,Off Break,yes,Nasir Jamal,Afghanistan,spin,right,Right-arm offbreak,yes,b430ec8c
+793447,Naveen-ul-Haq Murid,Naveen-ul-Haq Murid,Afghanistan,bowler,right,pace,right,Right-arm medium-fast,yes,Naveen-ul-Haq,Afghanistan,pace,right,Right-arm medium-fast,yes,c0c411cb
+913843,Nijat Masood,Nijat Masood,Afghanistan,bowler,right,pace,right,Right-arm medium,yes,Nijat Masood,Afghanistan,pace,right,Right-arm medium,yes,a1bf281e
+1182529,Noor Lakanwal,Noor Ahmad Lakanwal,Afghanistan,bowler,right,spin,left,Left-arm wrist spin,yes,Noor Ahmad,Afghanistan,spin,left,Left-arm wrist-spin,yes,efc04be7
+318340,Noor Zadran,Noor Ali Zadran,Afghanistan,batsman,right,pace,right,Right-arm medium-fast,yes,Noor Ali Zadran,Afghanistan,pace,right,Right-arm medium-fast,yes,72e46d30
+914171,Qais Kamawal,Qais Ahmad Kamawal,Afghanistan,bowler,right,spin,right,Leg Break,yes,Qais Ahmad,Afghanistan,spin,right,Legbreak,yes,8d5d991e
+974087,Rahmanullah Gurbaz,Rahmanullah Gurbaz,Afghanistan,wicketkeeper-batsman,right,pace,right,Right-arm medium,yes,Rahmanullah Gurbaz,Afghanistan,pace,right,Right-arm medium,yes,0bacade8
+533956,Rahmat Zurmatai,Rahmat Shah Zurmatai,Afghanistan,all-rounder,right,spin,right,Leg Break Googly,yes,Rahmat Shah,Afghanistan,spin,right,Legbreak googly,yes,f9c29fcd
+793463,Rashid Khan,Rashid Khan,Afghanistan,bowler,right,spin,right,Legbreak Googly,no,,,,,,yes,5f547c8b
+1061090,Riaz Hassan,Riaz Hassan,Afghanistan,batsman,right,,,,yes,Riaz Hassan,Afghanistan,,,,yes,33f8789e
+976571,Said Mehboob,Said Bahir Shah Mehboob,Afghanistan,bowler,right,spin,right,Off Break,yes,Bahir Shah,Afghanistan,spin,right,Right-arm offbreak,yes,0439b7fb
+318339,Samiullah Shinwari,Samiullah Shinwari,Afghanistan,all-rounder,right,spin,right,Leg Break,no,,,,,,yes,61646132
+524050,Sayed Shirzad,Sayed Ahmad Shirzad,Afghanistan,bowler,right,pace,left,Left-arm medium,yes,Sayed Shirzad,Afghanistan,pace,left,Left-arm medium,yes,0ec1f412
+1161050,Sediqullah Atal,Sediqullah Atal,Afghanistan,batsman,left,,,,yes,Sediqullah Atal,Afghanistan,,,,yes,3c28853f
+633366,Shahidullah Kamal,Shahidullah Kamal,Afghanistan,bowler,left,spin,left,Slow left-arm orthodox,yes,Shahidullah,Afghanistan,spin,left,Slow left-arm orthodox,yes,82b90140
+633362,Sharafuddin Ashraf,Sharafuddin Ashraf,Afghanistan,all-rounder,right,spin,left,Slow left-arm orthodox,yes,Sharafuddin Ashraf,Afghanistan,spin,left,Slow left-arm orthodox,yes,7e678d00
+711559,Usman Ghani,Usman Ghani,Afghanistan,batsman,right,,,,yes,Usman Ghani,Afghanistan,,,,yes,e3829b2a
+973945,Wafadar Momand,Wafadar Momand,Afghanistan,bowler,right,pace,right,Right-arm medium,yes,Wafadar Momand,Afghanistan,pace,right,Right-arm medium,yes,6b68d7b3
+1364157,Wafiullah Tarakhil,Wafiullah Tarakhil,Afghanistan,batsman,right,,,,yes,Wafiullah Tarakhil,Afghanistan,,,,yes,626d183d
+712219,Zahir Pakteen,Zahir Khan Pakteen,Afghanistan,bowler,left,spin,left,Left-arm wrist spin,yes,Zahir Khan,Afghanistan,spin,left,Left-arm wrist-spin,yes,786b7fe8
+633374,Zia-ur-Rehman Akbar,Zia-ur-Rehman Akbar,Afghanistan,bowler,right,spin,left,Slow left-arm orthodox,yes,Zia-ur-Rehman,Afghanistan,spin,left,Slow left-arm orthodox,yes,fda22a2e
+1015437,Zubairullah Akbari,Zubairullah Akbari,Afghanistan,bowler,left,spin,left,Slow left-arm orthodox,no,,,,,,yes,a18d14c7
+1124283,Aaron Hardie,Aaron Mark Hardie,Australia,bowler,right,pace,right,Right-arm medium-fast,yes,Aaron Hardie,Australia,pace,right,Right-arm medium-fast,yes,d405c0d5
+379504,Adam Zampa,Adam Zampa,Australia,bowler,right,spin,right,Leg Break Googly,yes,Adam Zampa,Australia,spin,right,Legbreak googly,yes,14f96089
+326434,Alex Carey,Alex Tyson Carey,Australia,wicketkeeper-batsman,left,,,,yes,Alex Carey,Australia,,,,yes,69d03465
+505120,Ashton Agar,Ashton Charles Agar,Australia,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Ashton Agar,Australia,spin,left,Slow left-arm orthodox,yes,a2421394
+500268,Ashton Turner,Ashton James Turner,Australia,bowler,right,spin,right,Off Break,yes,Ashton Turner,Australia,spin,right,Right-arm offbreak,yes,ff1e12a0
+381329,Beau Webster,Beau Jacob Webster,Australia,all-rounder,right,pace,right,Right-arm medium,yes,Beau Webster,Australia,pace,right,Right-arm medium,yes,56b93d46
+679567,Ben Dwarshuis,Benjamin James Dwarshuis,Australia,bowler,left,pace,left,Left-arm fast-medium,yes,Ben Dwarshuis,Australia,pace,left,Left-arm fast-medium,yes,e1b9f3a9
+603410,Ben McDermott,Benjamin Reginald McDermott,Australia,batsman,right,pace,right,Right-arm medium,yes,Ben McDermott,Australia,pace,right,Right-arm medium,yes,c41043e6
+533042,Billy Stanlake,Billy James Stanlake,Australia,bowler,left,pace,right,Right-arm fast,yes,Billy Stanlake,Australia,pace,right,Right-arm fast,yes,6834d1f2
+931603,Brendan Doggett,Brendan James Doggett,Australia,bowler,right,pace,right,Right-arm fast-medium,yes,Brendan Doggett,Australia,pace,right,Right-arm fast-medium,yes,898e628d
+501011,Cameron Bancroft,Cameron Timothy Bancroft,Australia,batsman,right,,,,yes,Cameron Bancroft,Australia,,,,yes,399b0b94
+1076713,Cameron Green,Cameron Green,Australia,all-rounder,right,pace,right,Right-arm medium,no,,,,,,yes,eaa76d3c
+787073,Chris Green,Christopher James Green,Australia,bowler,right,spin,right,Off Break,yes,Chris Green,Australia,spin,right,Right-arm offbreak,yes,19b9f399
+1210488,Cooper Connolly,Cooper Connolly,Australia,all-rounder,left,spin,left,Slow left-arm orthodox,no,,,,,,yes,fe366f34
+325026,Glenn Maxwell,Glenn James Maxwell,Australia,all-rounder,right,spin,right,Off Break,yes,Glenn Maxwell,Australia,spin,right,Right-arm offbreak,yes,b681e71e
+499660,Gurinder Sandhu,Gurinder Singh Sandhu,Australia,bowler,left,pace,right,Right-arm fast-medium,no,,,,,,yes,1558d83b
+1088610,Jack Edwards,Jack Richard Edwards,Australia,all-rounder,right,pace,right,Right-arm medium,no,,,,,,yes,f787e0eb
+570854,Jack Wildermuth,Jack David Wildermuth,Australia,bowler,right,pace,right,Right-arm medium-fast,yes,Jack Wildermuth,Australia,pace,right,Right-arm medium-fast,yes,f1c61793
+1168049,Jake Fraser-McGurk,Jake Matthew Fraser-McGurk,Australia,batsman,right,spin,right,Leg Break Googly,yes,Jake Fraser-McGurk,Australia,spin,right,Legbreak googly,yes,9b6e1b3f
+781285,Jake Weatherald,Jake Beath Weatherald,Australia,batsman,left,spin,right,Leg Break,yes,Jake Weatherald,Australia,spin,right,Legbreak,yes,edc7ddb6
+533043,James Muirhead,James Matthew Muirhead,Australia,bowler,right,spin,right,Leg Break,yes,James Muirhead,Australia,spin,right,Legbreak,yes,52f08be8
+272477,Jason Behrendorff,Jason Paul Behrendorff,Australia,bowler,right,pace,left,Left-arm fast-medium,yes,Jason Behrendorff,Australia,pace,left,Left-arm fast-medium,yes,4933f499
+774223,Jhye Richardson,Jhye Avon Richardson,Australia,bowler,right,pace,right,Right-arm fast,yes,Jhye Richardson,Australia,pace,right,Right-arm fast,yes,1ee08e9a
+288284,Josh Hazlewood,Josh Reginald Hazlewood,Australia,bowler,left,pace,right,Right-arm fast-medium,yes,Josh Hazlewood,Australia,pace,right,Right-arm fast-medium,yes,03806cf8
+662235,Josh Inglis,Joshua Patrick Inglis,Australia,wicketkeeper-batsman,right,,,,yes,Josh Inglis,Australia,,,,yes,989889ff
+1124282,Josh Philippe,Joshua Ryan Philippe,Australia,batsman,right,,,,yes,Josh Philippe,Australia,,,,yes,39086549
+272262,Kane Richardson,Kane William Richardson,Australia,bowler,right,pace,right,Right-arm fast-medium,yes,Kane Richardson,Australia,pace,right,Right-arm fast-medium,yes,dfc4d8b5
+505110,Kurtis Patterson,Kurtis Robert Patterson,Australia,batsman,left,spin,right,Off Break,yes,Kurtis Patterson,Australia,spin,right,Right-arm offbreak,yes,e3bf8356
+1125317,Lance Morris,Lance Richard Thomas Morris,Australia,bowler,right,pace,right,Right-arm fast,yes,Lance Morris,Australia,pace,right,Right-arm fast,yes,b08e58e2
+1076376,Liam Scott,Liam Alexander Hamilton Scott,Australia,all-rounder,right,pace,right,Right-arm fast-medium,no,,,,,,yes,0ebb3444
+1393948,Mahli Beardman,Mahli Beardman,Australia,bowler,right,pace,right,Right-arm fast-medium,yes,Mahli Beardman,Australia,pace,right,Right-arm fast-medium,yes,b5a12740
+434813,Marcus Harris,Marcus Sinclair Harris,Australia,batsman,left,,,,yes,Marcus Harris,Australia,,,,yes,9e85455c
+325012,Marcus Stoinis,Marcus Peter Stoinis,Australia,all-rounder,right,pace,right,Right-arm medium,yes,Marcus Stoinis,Australia,pace,right,Right-arm medium,yes,d9273ee7
+787987,Marnus Labuschagne,Marnus Labuschagne,Australia,batsman,right,spin,right,Leg Break,yes,Marnus Labuschagne,Australia,pace,right,Right-arm medium-fast,yes,fa433be6
+774219,Matthew Kuhnemann,Matthew Paul Kuhnemann,Australia,bowler,left,spin,left,Slow left-arm orthodox,yes,Matthew Kuhnemann,Australia,spin,left,Slow left-arm orthodox,yes,7b953689
+722303,Matthew Renshaw,Matthew Thomas Renshaw,Australia,batsman,left,spin,right,Off Break,yes,Matt Renshaw,Australia,spin,right,Right-arm offbreak,yes,218d4d78
+605575,Matthew Short,Matthew William Short,Australia,batsman,right,spin,right,Off Break,yes,Matthew Short,Australia,spin,right,Right-arm offbreak,yes,a90e53ec
+376169,Michael Neser,Michael Gertges Neser,Australia,bowler,right,pace,right,Right-arm medium-fast,yes,Michael Neser,Australia,pace,right,Right-arm medium-fast,yes,0164b064
+272450,Mitchell Marsh,Mitchell Ross Marsh,Australia,all-rounder,right,pace,right,Right-arm medium,yes,Mitchell Marsh,Australia,pace,right,Right-arm medium,yes,3d8feaf8
+1213979,Mitchell Owen,Mitchell J Owen,Australia,bowler,right,pace,right,Right-arm medium,yes,Mitchell Owen,Australia,pace,right,Right-arm medium,yes,f2c936d7
+311592,Mitchell Starc,Mitchell Aaron Starc,Australia,all-rounder,left,pace,left,Left-arm fast,yes,Mitchell Starc,Australia,pace,left,Left-arm fast,yes,3fb19989
+590326,Mitchell Swepson,Mitchell Joseph Swepson,Australia,bowler,right,spin,right,Leg Break,yes,Mitchell Swepson,Australia,spin,right,Legbreak,yes,86b4bf88
+826915,Nathan Ellis,Nathan Ellis,Australia,bowler,right,pace,right,Right-arm fast-medium,yes,Nathan Ellis,Australia,pace,right,Right-arm fast-medium,yes,9eb1455b
+272279,Nathan Lyon,Nathan Michael Lyon,Australia,bowler,right,spin,right,Off Break,yes,Nathan Lyon,Australia,spin,right,Right-arm offbreak,yes,96a6a7ad
+1124290,Nathan McSweeney,Nathan A McSweeney,Australia,batsman,right,spin,right,Off Break,yes,Nathan McSweeney,Australia,spin,right,Right-arm offbreak,yes,e94d2d50
+1418371,Oliver Peake,Oliver John Peake,Australia,all-rounder,left,spin,right,Off Break,yes,Oliver Peake,Australia,spin,right,Right-arm offbreak,yes,9c8448ba
+489889,Pat Cummins,Patrick James Cummins,Australia,all-rounder,right,pace,right,Right-arm fast,yes,Pat Cummins,Australia,pace,right,Right-arm fast,yes,ded9240e
+961713,Riley Meredith,Riley Patrick Meredith,Australia,bowler,right,pace,right,Right-arm fast,yes,Riley Meredith,Australia,pace,right,Right-arm fast,yes,64775749
+1393951,Sam Konstas,Sam Konstas,Australia,batsman,right,spin,right,Off Break,no,,,,,,yes,3c34c9e1
+826679,Samuel Heazlett,Samuel Daly Heazlett,Australia,batsman,left,spin,left,Slow left-arm orthodox,yes,Sam Heazlett,Australia,spin,left,Slow left-arm orthodox,yes,e00a9155
+446548,Scott Boland,Scott Michael Boland,Australia,bowler,right,pace,right,Right-arm fast-medium,yes,Scott Boland,Australia,pace,right,Right-arm fast-medium,yes,d167edd3
+398666,Sean Abbott,Sean Anthony Abbott,Australia,all-rounder,right,pace,right,Right-arm fast-medium,yes,Sean Abbott,Australia,pace,right,Right-arm fast-medium,yes,1a2676c5
+1123718,Spencer Johnson,Spencer Henry Johnson,Australia,bowler,left,pace,left,Left-arm fast,yes,Spencer Johnson,Australia,pace,left,Left-arm fast,yes,83c3e8e3
+267192,Steven Smith,Steven Peter Devereux Smith,Australia,batsman,right,spin,right,Leg Break Googly,yes,Steven Smith,Australia,spin,right,Legbreak googly,yes,30a45b23
+1170471,Tanveer Sangha,Tanveer Singh Sangha,Australia,bowler,right,spin,right,Leg Break,yes,Tanveer Sangha,Australia,spin,right,Legbreak,yes,52c952d9
+892749,Tim David,Timothy Hays David,Australia,batsman,right,spin,right,Off Break,yes,Tim David,Australia,spin,right,Right-arm offbreak,yes,f1f99156
+1193685,Todd Murphy,Todd Raymond Murphy,Australia,bowler,left,spin,right,Off Break,no,,,,,,yes,ac2e7ec0
+530011,Travis Head,Travis Michael Head,Australia,batsman,left,spin,right,Off Break,yes,Travis Head,Australia,spin,right,Right-arm offbreak,yes,12b610c2
+959833,Wes Agar,Wesley Austin Agar,Australia,all-rounder,right,pace,right,Right-arm fast,yes,Wes Agar,Australia,pace,right,Right-arm fast,yes,15de1f5d
+1076722,Will Sutherland,William James Sutherland,Australia,bowler,right,pace,right,Right-arm medium-fast,yes,Will Sutherland,Australia,pace,right,Right-arm medium-fast,yes,bc2d4f2e
+1050545,Xavier Bartlett,Xavier Colin Bartlett,Australia,bowler,right,pace,right,Right-arm fast-medium,yes,Xavier Bartlett,Australia,pace,right,Right-arm fast-medium,yes,3b53243a
+550137,Abu Hider,Abu Hider Rony,Bangladesh,bowler,right,pace,left,Left-arm fast-medium,yes,Abu Hider,Bangladesh,pace,left,Left-arm fast-medium,yes,31803fac
+410763,Abu Jayed,Abu Jayed Chowdhury,Bangladesh,bowler,right,pace,right,Right-arm fast-medium,yes,Abu Jayed,Bangladesh,pace,right,Right-arm fast-medium,yes,1bb0993e
+935995,Afif Hossain,Afif Hossain Dhrubo,Bangladesh,all-rounder,left,spin,right,Off Break,yes,Afif Hossain,Bangladesh,spin,right,Right-arm offbreak,yes,37138918
+1285154,Anamul Haque,Anamul Haque Bijoy,Bangladesh,batsman,right,pace,right,Right-arm medium,no,,,,,,yes,9fd99cbf
+270135,Ariful Haque,Ariful Haque,Bangladesh,bowler,right,pace,right,Right-arm medium-fast,yes,Ariful Haque,Bangladesh,pace,right,Right-arm medium-fast,yes,ad1730bc
+926629,Hasan Mahmud,Hasan Mahmud,Bangladesh,bowler,right,pace,right,Right-arm fast-medium,yes,Hasan Mahmud,Bangladesh,pace,right,Right-arm fast-medium,yes,80ad39ac
+990161,Hasan Murad,Hasan Murad,Bangladesh,bowler,right,spin,left,Slow left-arm orthodox,yes,Hasan Murad,Bangladesh,spin,left,Slow left-arm orthodox,yes,da9f58aa
+824541,Jaker Ali,Jaker Ali Anik,Bangladesh,wicketkeeper-batsman,right,,,,yes,Jaker Ali,Bangladesh,,,,yes,cd56a813
+375724,Kamrul Islam,Kamrul Islam Rabbi,Bangladesh,bowler,right,pace,right,Right-arm medium-fast,yes,Kamrul Islam,Bangladesh,pace,right,Right-arm medium-fast,yes,f7e9a562
+927619,Khaled Ahmed,Syed Khaled Ahmed,Bangladesh,bowler,right,pace,right,Right-arm medium-fast,yes,Khaled Ahmed,Bangladesh,pace,right,Right-arm medium-fast,yes,5dbdecf1
+536936,Litton Das,Litton Kumar Das,Bangladesh,wicketkeeper-batsman,right,spin,right,Off Break,no,,,,,,yes,0404d43c
+833087,Mahedi Hasan,Mahedi Hasan,Bangladesh,all-rounder,right,spin,right,Off Break,yes,Mahedi Hasan,Bangladesh,spin,right,Right-arm offbreak,yes,9dad0f2e
+995037,Mahidul Ankon,Mahidul Islam Bhuiyan Ankon,Bangladesh,batsman,right,,,,yes,Mahidul Islam Ankon,Bangladesh,,,,yes,dac6aabc
+1161381,Mahmudul Hasan,Mahmudul Hasan Joy,Bangladesh,batsman,right,,,,yes,Mahmudul Hasan Joy,Bangladesh,,,,yes,4b51bd51
+629063,Mehidy Hasan Miraz,Mehidy Hasan Miraz,Bangladesh,all-rounder,right,spin,right,Off Break,no,,,,,,yes,c58b0108
+269237,Mohammad Mithun,Mohammad Mithun,Bangladesh,batsman,right,,,,yes,Mohammad Mithun,Bangladesh,,,,yes,77191792
+990081,Mohammad Naim,Mohammad Naim Sheikh,Bangladesh,batsman,left,,,,yes,Mohammad Naim,Bangladesh,,,,yes,7923a51d
+629070,Mohammad Saifuddin,Mohammad Saifuddin,Bangladesh,all-rounder,left,pace,right,Right-arm medium-fast,yes,Mohammad Saifuddin,Bangladesh,pace,right,Right-arm medium-fast,yes,b3a28446
+373696,Mominul Haque,Mominul Haque,Bangladesh,batsman,left,spin,left,Slow left-arm orthodox,yes,Mominul Haque,Bangladesh,spin,left,Slow left-arm orthodox,yes,de0a3209
+550133,Mosaddek Hossain,Mosaddek Hossain Saikat,Bangladesh,all-rounder,right,spin,right,Off Break,yes,Mosaddek Hossain,Bangladesh,spin,right,Right-arm offbreak,yes,8919756f
+1012137,Mrittunjoy Chowdhury,Mohammad Mrittunjoy Chowdhury Nipun,Bangladesh,bowler,left,pace,left,Left-arm medium-fast,yes,Mrittunjoy Chowdhury,Bangladesh,pace,left,Left-arm medium-fast,yes,21b97584
+549950,Munim Shahriar,Munim Shahriar Jummon,Bangladesh,batsman,right,pace,right,Right-arm medium-fast,yes,Munim Shahriar,Bangladesh,pace,right,Right-arm medium-fast,yes,dd98b22f
+56029,Mushfiqur Rahim,Mohammad Mushfiqur Rahim,Bangladesh,wicketkeeper-batsman,right,,,,yes,Mushfiqur Rahim,Bangladesh,,,,yes,a94e08ea
+330902,Mustafizur Rahman,Mustafizur Rahman,Bangladesh,bowler,left,pace,left,Left-arm fast-medium,yes,Mustafizur Rahman,Bangladesh,pace,left,Left-arm fast-medium,yes,0a8fce53
+1210511,Nahid Rana,Nahid Rana,Bangladesh,bowler,right,pace,right,Right-arm fast,yes,Nahid Rana,Bangladesh,pace,right,Right-arm fast,yes,5318ee68
+348049,Nasum Ahmed,Nasum Ahmed,Bangladesh,bowler,left,spin,left,Slow left-arm orthodox,yes,Nasum Ahmed,Bangladesh,spin,left,Slow left-arm orthodox,yes,37654b75
+932635,Nayeem Hasan,Mohammad Nayeem Hasan,Bangladesh,bowler,right,spin,right,Off Break,yes,Nayeem Hasan,Bangladesh,spin,right,Right-arm offbreak,yes,1670dcfd
+410765,Nurul Hasan,Quazi Nurul Hasan Sohan,Bangladesh,wicketkeeper-batsman,right,,,,yes,Nurul Hasan,Bangladesh,,,,yes,d365d463
+1139511,Parvez Hossain Emon,Mohammad Parvez Hossain Emon,Bangladesh,batsman,left,,,,yes,Parvez Hossain Emon,Bangladesh,,,,yes,489aaf0a
+1276980,Ripon Mondol,Ripon Mondol,Bangladesh,bowler,right,pace,right,Right-arm medium,yes,Ripon Mondol,Bangladesh,pace,right,Right-arm medium,yes,492ff0c2
+1139523,Rishad Hossain,Mohammad Rishad Hossain,Bangladesh,all-rounder,right,spin,right,Leg Break Googly,yes,Rishad Hossain,Bangladesh,spin,right,Legbreak googly,yes,5935d694
+300617,Rony Talukdar,Rony Talukdar,Bangladesh,batsman,right,pace,right,Right-arm medium,yes,Rony Talukdar,Bangladesh,pace,right,Right-arm slow-medium,yes,8bd614b2
+373538,Sabbir Rahman,Mohammad Sabbir Rahman,Bangladesh,batsman,right,spin,right,Leg Break,yes,Sabbir Rahman,Bangladesh,spin,right,Legbreak,yes,7147f314
+821749,Saif Hassan,Mohammad Saif Hassan,Bangladesh,batsman,right,spin,right,Off Break,yes,Saif Hassan,Bangladesh,spin,right,Right-arm offbreak,yes,bb95564b
+629057,Shadman Islam,Shadman Islam Anik,Bangladesh,batsman,left,spin,left,Slow left-arm orthodox,yes,Shadman Islam,Bangladesh,spin,left,Slow left-arm orthodox,yes,246d11a2
+56149,Shahadat Hossain,Shahadat Hossain Dipu,Bangladesh,batsman,right,spin,right,Off Break,no,,,,,,yes,090f9211
+1161044,Shamim Hossain,Shamim Hossain Patwari,Bangladesh,batsman,left,spin,right,Off Break,yes,Shamim Hossain,Bangladesh,spin,right,Right-arm offbreak,yes,711249d1
+56125,Shohidul Islam,MD Shohidul Islam,Bangladesh,bowler,right,pace,right,Right-arm medium,yes,Shohidul Islam,Bangladesh,pace,right,Right-arm medium,yes,607ed7c2
+990039,Shoriful Islam,Mohammad Shoriful Islam,Bangladesh,bowler,left,pace,left,Left-arm fast-medium,yes,Shoriful Islam,Bangladesh,pace,left,Left-arm fast-medium,yes,bb34fd31
+436677,Soumya Sarkar,Soumya Sarkar,Bangladesh,all-rounder,left,pace,right,Right-arm medium-fast,yes,Soumya Sarkar,Bangladesh,pace,right,Right-arm medium-fast,yes,4d9f9686
+1163490,Sumon Khan,Sumon Khan,Bangladesh,bowler,left,pace,right,Right-arm medium,yes,Sumon Khan,Bangladesh,pace,right,Right-arm medium,yes,a84ccd7d
+401057,Taijul Islam,Taijul Islam,Bangladesh,bowler,left,spin,left,Slow left-arm orthodox,yes,Taijul Islam,Bangladesh,spin,left,Slow left-arm orthodox,yes,9d1d34bd
+932665,Tanvir Islam,Tanvir Islam,Bangladesh,bowler,left,spin,left,Slow left-arm orthodox,yes,Tanvir Islam,Bangladesh,spin,left,Slow left-arm orthodox,yes,aa467af0
+990023,Tanzid Hasan,Tanzid Hasan Tamim,Bangladesh,batsman,left,,,,yes,Tanzid Hasan,Bangladesh,,,,yes,80fe764d
+1139520,Tanzim Hasan Sakib,Tanzim Hasan Sakib,Bangladesh,all-rounder,right,pace,right,Right-arm fast-medium,yes,Tanzim Hasan Sakib,Bangladesh,pace,right,Right-arm fast-medium,yes,0b0cc297
+538506,Taskin Ahmed,Taskin Ahmed,Bangladesh,bowler,left,pace,right,Right-arm fast,yes,Taskin Ahmed,Bangladesh,pace,right,Right-arm fast,yes,ef18b66e
+990031,Towhid Hridoy,Md Towhid Hridoy,Bangladesh,batsman,right,spin,right,Off Break,yes,Towhid Hridoy,Bangladesh,spin,right,Right-arm offbreak,yes,9e52a414
+697059,Zakir Hasan,Mohammad Zakir Hasan,Bangladesh,batsman,left,,,,yes,Zakir Hasan,Bangladesh,,,,yes,e3e09091
+244497,Adil Rashid,Adil Usman Rashid,England,all-rounder,right,spin,right,Leg Break,yes,Adil Rashid,England,spin,right,Legbreak,yes,249d60c9
+460756,Alex Lees,Alexander Zak Lees,England,bowler,left,spin,right,Leg Break,yes,Alex Lees,England,spin,right,Legbreak,yes,c9c0fe50
+521637,Ben Duckett,Ben Matthew Duckett,England,batsman,left,spin,right,Off Break,yes,Ben Duckett,England,spin,right,Right-arm offbreak,yes,5f26f677
+364788,Ben Foakes,Benjamin Thomas Foakes,England,wicketkeeper-batsman,right,,,,yes,Ben Foakes,England,,,,yes,fd770945
+311158,Ben Stokes,Benjamin Andrew Stokes,England,all-rounder,left,pace,right,Right-arm fast-medium,yes,Ben Stokes,England,pace,right,Right-arm fast-medium,yes,e087956b
+596417,Brydon Carse,Brydon Alexander Carse,England,bowler,right,pace,right,Right-arm fast-medium,yes,Brydon Carse,England,pace,right,Right-arm fast-medium,yes,cad40f5e
+288992,Chris Jordan,Christopher James Jordan,England,bowler,right,pace,right,Right-arm fast-medium,yes,Chris Jordan,England,pace,right,Right-arm fast-medium,yes,ffe699c0
+464626,Craig Overton,Craig Overton,England,bowler,right,pace,right,Right-arm medium-fast,yes,Craig Overton,England,pace,right,Right-arm medium-fast,yes,e9987a94
+1172968,Dan Mousley,Daniel Richard Mousley,England,batsman,left,spin,right,Off Break,yes,Dan Mousley,England,spin,right,Right-arm offbreak,yes,876dbe2d
+641423,Daniel Lawrence,Daniel William Lawrence,England,all-rounder,right,spin,right,Off Break,yes,Dan Lawrence,England,spin,right,Right-arm offbreak,yes,4b685e2d
+362710,David Payne,David Alan Payne,England,bowler,right,pace,left,Left-arm fast-medium,yes,David Payne,England,pace,left,Left-arm fast-medium,yes,6c79c098
+646847,Dom Bess,Dominic Mark Bess,England,bowler,right,spin,right,Off Break,yes,Dom Bess,England,spin,right,Right-arm offbreak,yes,ad46c747
+519082,Dom Sibley,Dominic Peter Sibley,England,batsman,right,spin,right,Leg Break,yes,Dom Sibley,England,spin,right,Legbreak,yes,97e434a6
+1148593,Emilio Gay,Emilio Nico Gay,England,batsman,left,pace,right,Right-arm medium,yes,Emilio Gay,England,pace,right,Right-arm medium,yes,aa710a58
+643433,George Garton,George Henry Simmons Garton,England,bowler,left,pace,left,Left-arm fast,yes,George Garton,England,pace,left,Left-arm fast,yes,be869ccf
+857979,George Scrimshaw,George Louis Sheridan Scrimshaw,England,bowler,right,pace,right,Right-arm medium-fast,yes,George Scrimshaw,England,pace,right,Right-arm medium-fast,yes,95a06106
+1039481,Gus Atkinson,Angus Alexander Patrick Atkinson,England,all-rounder,right,pace,right,Right-arm fast-medium,yes,Gus Atkinson,England,pace,right,Right-arm fast-medium,yes,70d57519
+911707,Harry Brook,Harry Cherrington Brook,England,batsman,right,pace,right,Right-arm medium,yes,Harry Brook,England,pace,right,Right-arm medium,yes,4ae1755b
+632172,Haseeb Hameed,Haseeb Hameed,England,bowler,right,spin,right,Leg Break,yes,Haseeb Hameed,England,spin,right,Legbreak,yes,fe0c5457
+455524,Jack Leach,Matthew Jack Leach,England,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Jack Leach,England,spin,left,Slow left-arm orthodox,yes,3987e390
+1194959,Jacob Bethell,Jacob Graham Bethell,England,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Jacob Bethell,England,spin,left,Slow left-arm orthodox,yes,3c55c703
+296597,James Vince,James Michael Vince,England,batsman,right,pace,right,Right-arm medium,yes,James Vince,England,pace,right,Right-arm medium,yes,a15618fe
+510530,Jamie Overton,Jamie Overton,England,all-rounder,right,pace,right,Right-arm fast,yes,Jamie Overton,England,pace,right,Right-arm fast,yes,59559bc2
+1096092,Jamie Smith,Jamie Luke Smith,England,wicketkeeper-batsman,right,,,,yes,Jamie Smith,England,,,,yes,c834c290
+669855,Jofra Archer,Jofra Chioke Archer,England,all-rounder,right,pace,right,Right-arm fast,yes,Jofra Archer,England,pace,right,Right-arm fast,yes,5574750c
+21440,John Simpson,John Andrew Simpson,England,batsman,left,,,,yes,John Simpson,England,,,,yes,f05fe9b1
+1261866,John Turner,John Andrew Turner,England,bowler,right,pace,right,Right-arm fast-medium,yes,John Turner,England,pace,right,Right-arm fast-medium,yes,cdd875d9
+297433,Jonny Bairstow,Jonathan Marc Bairstow,England,wicketkeeper-batsman,right,pace,right,Right-arm medium,yes,Jonny Bairstow,England,pace,right,Right-arm medium,yes,abb83e27
+1112537,Jordan Cox,Jordan Matthew Cox,England,batsman,right,,,,yes,Jordan Cox,England,,,,yes,ff154ecd
+308967,Jos Buttler,Joseph Charles Buttler,England,wicketkeeper-batsman,right,,,,yes,Jos Buttler,England,,,,yes,99b75528
+303669,Jos Root,Joseph Edward Root,England,all-rounder,right,spin,right,Off Break,yes,Joe Root,England,spin,right,Right-arm offbreak,yes,a343262c
+1330163,Josh Hull,Joshua Owen Hull,England,bowler,left,pace,left,Left-arm fast-medium,yes,Josh Hull,England,pace,left,Left-arm fast-medium,yes,1cc0a83d
+857975,Josh Tongue,Joshua Charles Tongue,England,bowler,right,pace,right,Right-arm fast-medium,yes,Josh Tongue,England,pace,right,Right-arm fast-medium,yes,1f1b4c89
+362201,Lewis Gregory,Lewis Gregory,England,bowler,right,pace,right,Right-arm medium-fast,yes,Lewis Gregory,England,pace,right,Right-arm medium-fast,yes,06c2de82
+211855,Liam Dawson,Liam Andrew Dawson,England,bowler,right,spin,left,Slow left-arm orthodox,yes,Liam Dawson,England,spin,left,Slow left-arm orthodox,yes,4a461c24
+403902,Liam Livingstone,Liam Stephen Livingstone,England,all-rounder,right,spin,right,Off Break,yes,Liam Livingstone,England,spin,right,Right-arm offbreak,yes,50c6bc2b
+573170,Luke Wood,Luke Wood,England,bowler,left,pace,left,Left-arm fast-medium,yes,Luke Wood,England,pace,left,Left-arm fast-medium,yes,65b6943c
+351588,Mark Wood,Mark Andrew Wood,England,all-rounder,right,pace,right,Right-arm fast,yes,Mark Wood,England,pace,right,Right-arm fast,yes,8d92a2c3
+639080,Matthew Fisher,Matthew David Fisher,England,bowler,right,pace,right,Right-arm fast-medium,yes,Matthew Fisher,England,pace,right,Right-arm fast-medium,yes,8f2dfebf
+653695,Matthew Parkinson,Matthew William Parkinson,England,bowler,right,spin,right,Leg Break,yes,Matt Parkinson,England,spin,right,Legbreak,yes,19708692
+1027781,Matthew Potts,Matthew James Potts,England,bowler,right,pace,right,Right-arm fast-medium,yes,Matthew Potts,England,pace,right,Right-arm fast-medium,yes,894b2d25
+887207,Ollie Pope,Oliver John Douglas Pope,England,wicketkeeper-batsman,right,,,,yes,Ollie Pope,England,,,,yes,e94bc520
+527776,Ollie Robinson,Oliver Edward Robinson,England,all-rounder,right,pace,right,Right-arm medium-fast,yes,Ollie Robinson,England,pace,right,Right-arm medium-fast,yes,0f3ee070
+457279,Olly Stone,Oliver Peter Stone,England,bowler,right,pace,right,Right-arm fast,yes,Olly Stone,England,pace,right,Right-arm fast,yes,3f659464
+669365,Phil Salt,Philip Dean Salt,England,batsman,right,spin,right,Off Break,yes,Phil Salt,England,spin,right,Right-arm offbreak,yes,3d284ca3
+461632,Reece Topley,Reece James William Topley,England,bowler,right,pace,left,Left-arm fast-medium,yes,Reece Topley,England,pace,left,Left-arm fast-medium,yes,8db7f47f
+1263691,Rehan Ahmed,Rehan Ahmed,England,all-rounder,right,spin,right,Leg Break Googly,yes,Rehan Ahmed,England,spin,right,Legbreak googly,yes,0ecb4de6
+473191,Richard Gleeson,Richard James Gleeson,England,bowler,right,pace,right,Right-arm fast-medium,yes,Richard Gleeson,England,pace,right,Right-arm fast-medium,yes,402f8494
+398778,Rory Burns,Rory Joseph Burns,England,batsman,left,pace,right,Right-arm medium,yes,Rory Burns,England,pace,right,Right-arm medium,yes,29e8a62e
+297628,Sam Billings,Samuel William Billings,England,batsman,right,,,,yes,Sam Billings,England,,,,yes,c16d4035
+662973,Sam Curran,Samuel Matthew Curran,England,all-rounder,left,pace,left,Left-arm medium-fast,yes,Sam Curran,England,pace,left,Left-arm medium-fast,yes,e94915e6
+555850,Sam Hain,Samuel Robert Hain,England,batsman,right,spin,right,Off Break,yes,Sam Hain,England,spin,right,Right-arm offbreak,yes,67b9536c
+643885,Saqib Mahmood,Saqib Mahmood,England,bowler,right,pace,right,Right-arm fast-medium,no,,,,,,yes,0f6db197
+1104697,Scott Currie,Scott William Currie,England,bowler,right,pace,right,Right-arm medium-fast,yes,Scott Currie,England,pace,right,Right-arm medium-fast,yes,c5f40e35
+1334872,Shoaib Bashir,Shoaib Bashir,England,all-rounder,right,spin,right,Off Break,yes,Shoaib Bashir,England,spin,right,Right-arm offbreak,yes,e36e9dd3
+1191192,Sonny Baker,Sonny Baker,England,bowler,right,pace,right,Right-arm fast,yes,Sonny Baker,England,pace,right,Right-arm fast,yes,78c12883
+877051,Tom Banton,Tom Banton,England,batsman,right,,,,yes,Tom Banton,England,,,,yes,25f7b7d6
+550235,Tom Curran,Thomas Kevin Curran,England,bowler,right,pace,right,Right-arm fast-medium,yes,Tom Curran,England,pace,right,Right-arm fast-medium,yes,e86754b2
+1150772,Tom Hartley,Tom William Hartley,England,bowler,left,spin,left,Slow left-arm orthodox,yes,Tom Hartley,England,spin,left,Slow left-arm orthodox,yes,22b98d7c
+897549,Will Jacks,William George Jacks,England,all-rounder,right,spin,right,Off Break,yes,Will Jacks,England,spin,right,Right-arm offbreak,yes,9caf69a1
+665053,Zak Crawley,Zak Crawley,England,batsman,right,spin,right,Off Break,yes,Zak Crawley,England,spin,right,Right-arm offbreak,yes,922e1b19
+1070183,Abhishek Sharma,Abhishek Sharma,India,batsman,left,spin,left,Slow left-arm orthodox,yes,Abhishek Sharma,India,spin,left,Slow left-arm orthodox,yes,f29185a1
+1176959,Akash Deep,Akash Deep,India,bowler,right,pace,right,Right-arm fast-medium,yes,Akash Deep,India,pace,right,Right-arm fast-medium,yes,0a67aec0
+1175428,Anshul Kamboj,Anshul Kamboj,India,bowler,right,pace,right,Right-arm medium,yes,Anshul Kamboj,India,pace,right,Right-arm medium,yes,fcc21ace
+1125976,Arshdeep Singh,Arshdeep Singh,India,all-rounder,left,pace,left,Left-arm medium-fast,yes,Arshdeep Singh,India,pace,left,Left-arm medium-fast,yes,244048f6
+694211,Avesh Khan,Avesh Khan,India,bowler,right,pace,right,Right-arm fast-medium,yes,Avesh Khan,India,pace,right,Right-arm fast-medium,yes,eef2536f
+554691,Axar Patel,Axar Rajeshbhai Patel,India,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Axar Patel,India,spin,left,Slow left-arm orthodox,yes,2e171977
+1284214,Bhuvneshwar Kumar,Bhuvneshwar Kumar,India,bowler,right,pace,right,Right-arm medium,yes,Kalki Kumar,Malta,spin,right,Right-arm offbreak,yes,7132a1a6
+1131754,Chetan Sakariya,Chetan Sakariya,India,bowler,left,pace,left,Left-arm medium-fast,yes,Chetan Sakariya,India,pace,left,Left-arm medium-fast,yes,2cdce1be
+447261,Deepak Chahar,Deepak Lokandersingh Chahar,India,all-rounder,right,pace,right,Right-arm medium,yes,Deepak Chahar,India,pace,right,Right-arm medium,yes,23eeb873
+497121,Deepak Hooda,Deepak Jagbir Hooda,India,batsman,right,spin,right,Off Break,yes,Deepak Hooda,India,spin,right,Right-arm offbreak,yes,73ad96ed
+1119026,Devdutt Padikkal,Devdutt Padikkal,India,batsman,left,spin,right,Off Break,yes,Devdutt Padikkal,India,spin,right,Right-arm offbreak,yes,2c25d4f5
+1175488,Dhruv Jurel,Dhruv Jurel,India,wicketkeeper-batsman,right,,,,no,,,,,,yes,bcf325d2
+452044,Hanuma Vihari,Gade Hanuma Vihari,India,all-rounder,right,spin,right,Off Break,yes,Hanuma Vihari,India,spin,right,Right-arm offbreak,yes,94253925
+625371,Hardik Pandya,Hardik Himanshu Pandya,India,all-rounder,right,pace,right,Right-arm medium-fast,yes,Hardik Pandya,India,pace,right,Right-arm medium-fast,yes,dbe50b21
+1216159,Harsh Dubey,Harsh Dubey,India,bowler,left,spin,left,Slow left-arm orthodox,no,,,,,,yes,25228673
+390481,Harshal Patel,Harshal Vikram Patel,India,bowler,right,pace,right,Right-arm medium,yes,Harshal Patel,India,pace,right,Right-arm medium,yes,f986ca1a
+1312645,Harshit Rana,Harshit Pradeep Rana,India,bowler,right,pace,right,Right-arm fast,yes,Harshit Rana,India,pace,right,Right-arm fast,yes,77b1aa15
+720471,Ishan Kishan,Ishan Kishan,India,wicketkeeper-batsman,left,,,,yes,720471,,,,,yes,752f7486
+447587,J Yadav,J Yadav,India,all-rounder,right,spin,right,Off Break,no,,,,,,yes,81049310
+625383,Jasprit Bumrah,Jasprit Jasbirsingh Bumrah,India,bowler,right,pace,right,Right-arm fast,yes,Jasprit Bumrah,India,pace,right,Right-arm fast,yes,462411b3
+390484,Jaydev Unadkat,Jaydev Dipakbhai Unadkat,India,bowler,right,pace,left,Left-arm medium,yes,Jaydev Unadkat,India,pace,left,Left-arm medium,yes,1e66c162
+721867,Jitesh Sharma,Jitesh Mohan Sharma,India,wicketkeeper-batsman,right,,,,yes,Jitesh Sharma,India,,,,yes,800d2d97
+422108,KL Rahul,Kannaur Lokesh Rahul,India,wicketkeeper-batsman,right,,,,yes,KL Rahul,India,,,,yes,b17e2f24
+398439,Karun Nair,Karun Nair,India,batsman,right,spin,right,Off Break,yes,Karun Nair,India,spin,right,Right-arm offbreak,yes,944533a5
+942645,Khaleel Ahmed,Khaleel Khursheed Ahmed,India,bowler,right,pace,left,Left-arm fast-medium,yes,Khaleel Ahmed,India,pace,left,Left-arm fast-medium,yes,a2f46292
+471342,Krunal Pandya,Krunal Himanshu Pandya,India,batsman,left,spin,left,Slow left-arm orthodox,yes,Krunal Pandya,India,spin,left,Slow left-arm orthodox,yes,5b8c830e
+1163695,Kuldeep Sen,Kuldeep Rampal Sen,India,bowler,right,pace,right,Right-arm fast,yes,Kuldeep Sen,India,pace,right,Right-arm fast,yes,2e78f685
+559235,Kuldeep Yadav,Kuldeep Yadav,India,bowler,left,spin,left,Left-arm wrist spin,yes,Kuldeep Yadav,India,spin,left,Left-arm wrist-spin,yes,8d2c70ad
+1175426,Manav Suthar,Manav Jagdusakumar Suthar,India,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Manav Suthar,India,spin,left,Slow left-arm orthodox,yes,025c4400
+290630,Manish Pandey,Manish Krishnanand Pandey,India,batsman,right,pace,right,Right-arm medium,yes,Manish Pandey,India,pace,right,Right-arm medium,yes,93b4fc78
+398438,Mayank Agarwal,Mayank Anurag Agarwal,India,batsman,right,spin,right,Off Break,yes,Mayank Agarwal,India,spin,right,Right-arm offbreak,yes,00ea847a
+1292563,Mayank Yadav,Mayank Prabhu Yadav,India,bowler,right,pace,right,Right-arm fast,yes,Mayank Yadav,India,pace,right,Right-arm fast,yes,b1ad996b
+481896,Mohammed Shami,Mohammed Shami Ahmed,India,bowler,right,pace,right,Right-arm fast,yes,Mohammed Shami,India,pace,right,Right-arm fast,yes,8cf9814c
+940973,Mohammed Siraj,Mohammed Siraj,India,bowler,right,pace,right,Right-arm fast,yes,Mohammed Siraj,India,pace,right,Right-arm fast,yes,2f49c897
+926851,Mukesh Kumar,Mukesh Kumar,India,bowler,right,pace,right,Right-arm medium,yes,Mukesh Kumar,India,pace,right,Right-arm medium,yes,2cffab74
+700167,Navdeep Saini,Navdeep Amarjeet Saini,India,bowler,right,pace,right,Right-arm fast,yes,Navdeep Saini,India,pace,right,Right-arm fast,yes,21d4e29b
+604527,Nitesh Rana,Nitesh Rana,India,batsman,left,spin,right,Off Break,no,,,,,,yes,fb2d1dda
+1175496,Nitish Reddy,Nitish Kumar Reddy,India,all-rounder,right,pace,right,Right-arm medium-fast,no,,,,,,yes,aad0c365
+917159,Prasidh Krishna,Muralikrishna Prasidh Krishna,India,bowler,right,pace,right,Right-arm fast-medium,yes,Prasidh Krishna,India,pace,right,Right-arm fast-medium,yes,85e0cf10
+1350768,Prince Yadav,Prince Yadav,India,bowler,right,pace,right,Right-arm fast,no,,,,,,yes,80b2fb19
+1070168,Prithvi Shaw,Prithvi Pankaj Shaw,India,batsman,right,spin,right,Off Break,yes,Prithvi Shaw,India,spin,right,Right-arm offbreak,yes,8b3e9c7c
+1064812,Rahul Chahar,Rahul Desraj Chahar,India,bowler,right,spin,right,Leg Break Googly,yes,Rahul Chahar,India,spin,right,Legbreak googly,yes,2ed569a0
+446763,Rahul Tripathi,Rahul Ajay Tripathi,India,bowler,right,pace,right,Right-arm medium,yes,Rahul Tripathi,India,pace,right,Right-arm medium,yes,77255a9e
+823703,Rajat Patidar,Rajat Manohar Patidar,India,bowler,right,spin,right,Off Break,yes,Rajat Patidar,India,spin,right,Right-arm offbreak,yes,c740ea83
+1079470,Ramandeep Singh,Ramandeep Singh,India,bowler,right,pace,right,Right-arm medium,yes,Ramandeep Singh,India,pace,right,Right-arm medium,yes,be24ead0
+1175441,Ravi Bishnoi,Ravi Bishnoi,India,bowler,right,spin,right,Leg Break Googly,yes,Ravi Bishnoi,India,spin,right,Legbreak googly,yes,df064e1a
+234675,Ravindra Jadeja,Ravindrasinh Anirudhsinh Jadeja,India,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Ravindra Jadeja,India,spin,left,Slow left-arm orthodox,yes,fe93fd9d
+723105,Rinku Singh,Rinku Singh,India,batsman,left,spin,right,Off Break,no,,,,,,yes,0a509d6b
+931581,Rishabh Pant,Rishabh Rajendra Pant,India,wicketkeeper-batsman,left,,,,yes,Rishabh Pant,India,,,,yes,919a3be2
+1079434,Riyan Parag,Riyan Parag,India,all-rounder,right,spin,right,Off Break,yes,Riyan Parag,India,spin,right,Right-arm offbreak,yes,04a418e8
+34102,Rohit Sharma,Rohit Gurunath Sharma,India,all-rounder,right,spin,right,Off Break,yes,Rohit Sharma,India,spin,right,Right-arm offbreak,yes,740742ef
+1060380,Ruturaj Gaikwad,Ruturaj Dashrat Gaikwad,India,batsman,right,spin,right,Off Break,yes,Ruturaj Gaikwad,India,spin,right,Right-arm offbreak,yes,45a43fe2
+1048739,Sai Kishore,Ravisrinivasan Sai Kishore,India,bowler,left,spin,left,Slow left-arm orthodox,yes,Sai Kishore,India,spin,left,Slow left-arm orthodox,yes,c7a995d3
+1151288,Sai Sudharsan,Bhardwaj Sai Sudharsan,India,batsman,left,spin,right,Leg Break,yes,Sai Sudharsan,India,spin,right,Legbreak,yes,d5130a30
+592735,Sandeep Warrier,Sankarankutty Sandeep Warrier,India,bowler,right,pace,right,Right-arm medium,yes,Sandeep Warrier,India,pace,right,Right-arm medium,yes,cdc6bdba
+425943,Sanju Samson,Sanju Viswanath Samson,India,wicketkeeper-batsman,right,,,,yes,Sanju Samson,India,,,,yes,a4cc73aa
+642525,Sarfaraz Khan,Sarfaraz Naushad Khan,India,batsman,right,spin,right,Leg Break,yes,Sarfaraz Khan,India,spin,right,Legbreak,yes,f088b960
+1159711,Shahbaz Ahmed,Shahbaz Ahmed,India,bowler,left,spin,left,Slow left-arm orthodox,yes,Shahbaz Ahmed,India,spin,left,Slow left-arm orthodox,yes,f9e6e7ef
+31872,Shahbaz Nadeem,Shahbaz Nadeem,India,bowler,right,spin,left,Slow left-arm orthodox,yes,Shahbaz Nadeem,India,spin,left,Slow left-arm orthodox,yes,9d80c5e1
+475281,Shardul Thakur,Shardul Narendra Thakur,India,all-rounder,right,pace,right,Right-arm medium,yes,Shardul Thakur,India,pace,right,Right-arm medium,yes,1abb78f8
+529436,Shikhar Bharat,Kona Srikar Bharat,India,wicketkeeper-batsman,right,,,,yes,Srikar Bharat,India,,,,yes,44a89551
+714451,Shivam Dube,Shivam Dube,India,all-rounder,left,pace,right,Right-arm medium,yes,Shivam Dube,India,pace,right,Right-arm medium,yes,a4e37e47
+1079848,Shivam Mavi,Shivam Pankaj Mavi,India,bowler,right,pace,right,Right-arm fast-medium,yes,Shivam Mavi,India,pace,right,Right-arm fast-medium,yes,c38d3503
+642519,Shreyas Iyer,Shreyas Santosh Iyer,India,batsman,right,spin,right,Off Break,yes,Shreyas Iyer,India,spin,right,Right-arm offbreak,yes,85ec8e33
+1070173,Shubman Gill,Shubman Gill,India,batsman,right,spin,right,Off Break,yes,Shubman Gill,India,spin,right,Right-arm offbreak,yes,b4b99816
+446507,Suryakumar Yadav,Suryakumar Ashok Yadav,India,batsman,right,pace,right,Right-arm medium,yes,Suryakumar Yadav,India,pace,right,Right-arm medium,yes,271f83cd
+802575,T Natarajan,Thangarasu Natarajan,India,bowler,left,pace,left,Left-arm medium,yes,T Natarajan,India,pace,left,Left-arm medium,yes,ce794613
+1170265,Tilak Varma,Tilak Varma,India,batsman,left,spin,right,Off Break,no,,,,,,yes,b0482a1d
+822553,Tushar Deshpande,Tushar Uday Deshpande,India,bowler,left,pace,right,Right-arm medium-fast,yes,Tushar Deshpande,India,pace,right,Right-arm medium-fast,yes,46a9bea1
+376116,Umesh Yadav,Umeshkumar Tilak Yadav,India,bowler,right,pace,right,Right-arm fast,yes,Umesh Yadav,India,pace,right,Right-arm fast,yes,cc1e8c68
+1246528,Umran Malik,Umran Malik,India,bowler,right,pace,right,Right-arm fast,yes,Umran Malik,India,pace,right,Right-arm fast,yes,81c08fa3
+1108375,Varun Chakravarthy,Varun Chakravarthy Vinod,India,bowler,right,spin,right,Leg Break Googly,yes,Varun Chakravarthy,India,spin,right,Legbreak googly,yes,5b7ab5a9
+851403,Venkatesh Iyer,Venkatesh Rajasekaran Iyer,India,batsman,left,pace,right,Right-arm medium,yes,Venkatesh Iyer,India,pace,right,Right-arm medium,yes,a24be938
+253802,Virat Kohli,Virat Kohli,India,all-rounder,right,pace,right,Right-arm medium,no,,,,,,yes,ba607b88
+719715,Washington Sundar,Washington Sundar,India,all-rounder,left,spin,right,Off Break,yes,Washington Sundar,India,spin,right,Right-arm offbreak,yes,f19ccfad
+1151278,Yashasvi Jaiswal,Yashasvi Bhupendra Kumar Jaiswal,India,batsman,left,spin,right,Leg Break,yes,Yashasvi Jaiswal,India,spin,right,Legbreak,yes,6c19c6e5
+430246,Yuzvendra Chahal,Yuzvendra Singh Chahal,India,bowler,right,spin,right,Leg Break Googly,yes,Yuzvendra Chahal,India,spin,right,Legbreak googly,yes,57ee1fde
+303423,Andrew Balbirnie,Andrew Balbirnie,Ireland,batsman,right,spin,right,Off Break,yes,Andy Balbirnie,Ireland,spin,right,Right-arm offbreak,yes,6ef13460
+417381,Andrew McBrine,Andrew Robert McBrine,Ireland,all-rounder,left,spin,right,Off Break,yes,Andy McBrine,Ireland,spin,right,Right-arm offbreak,yes,e957b38f
+348059,Barry McCarthy,Barry John McCarthy,Ireland,all-rounder,right,pace,right,Right-arm fast-medium,yes,Barry McCarthy,Ireland,pace,right,Right-arm fast-medium,yes,3766056b
+928059,Ben White,Benjamin White,Ireland,bowler,right,spin,right,Leg Break,no,,,,,,yes,1a448be0
+1193295,Benjamin Calitz,Benjamin Fredeman Calitz,Ireland,bowler,left,,right,Right-arm slow,yes,Ben Calitz,Ireland,,right,Right-arm slow,yes,24ad97e7
+946283,Cade Carmichael,Cade Mitchell Carmichael,Ireland,batsman,right,pace,right,Right-arm medium,yes,Cade Carmichael,Ireland,pace,right,Right-arm medium,yes,f3b158d9
+1229953,Conor Olphert,Conor Olphert,Ireland,bowler,right,pace,right,Right-arm medium,yes,Conor Olphert,Ireland,pace,right,Right-arm medium,yes,7afc806f
+364343,Craig Young,Craig Alexander Young,Ireland,all-rounder,right,pace,right,Right-arm fast-medium,yes,Craig Young,Ireland,pace,right,Right-arm fast-medium,yes,bd0a4a7d
+595921,Curtis Campher,Curtis Campher,Ireland,all-rounder,right,pace,right,Right-arm medium-fast,yes,Curtis Campher,Ireland,pace,right,Right-arm medium-fast,yes,478a63e7
+571707,Edward Kane,Tyrone Edward Kane,Ireland,bowler,right,pace,right,Right-arm medium-fast,yes,Tyrone Kane,Ireland,pace,right,Right-arm medium-fast,yes,af28816c
+1099225,Fionn Hand,Fionn Philip Hand,Ireland,bowler,right,pace,right,Right-arm medium,yes,Fionn Hand,Ireland,pace,right,Right-arm medium,yes,e3fe4b49
+1099379,Gareth Delany,Gareth James Delany,Ireland,all-rounder,right,spin,right,Leg Break Googly,yes,Gareth Delany,Ireland,spin,right,Legbreak googly,yes,33b3d2df
+1195662,Gavin Hoey,Gavin Hoey,Ireland,bowler,right,spin,right,Leg Break,yes,Gavin Hoey,Ireland,spin,right,Legbreak,yes,19d0a172
+348034,George Dockrell,George Henry Dockrell,Ireland,all-rounder,right,spin,left,Slow left-arm orthodox,yes,George Dockrell,Ireland,spin,left,Slow left-arm orthodox,yes,99cddc5e
+379144,Graham Hume,Graham Ian Hume,Ireland,bowler,left,pace,right,Right-arm fast-medium,yes,Graham Hume,Ireland,pace,right,Right-arm fast-medium,yes,25550d06
+961407,Harry Tector,Harry Tom Tector,Ireland,batsman,right,spin,right,Off Break,yes,Harry Tector,Ireland,spin,right,Right-arm offbreak,yes,59ea70a4
+470917,James McCollum,James Alexander McCollum,Ireland,bowler,right,pace,right,Right-arm medium,yes,James McCollum,Ireland,pace,right,Right-arm medium,yes,c7105dab
+1394079,Jordan Neill,Jordan Enno Neill,Ireland,all-rounder,right,pace,right,Right-arm medium-fast,yes,Jordan Neill,Ireland,pace,right,Right-arm medium-fast,yes,8bb34d86
+928067,Josh Little,Josh Little,Ireland,bowler,left,pace,left,Left-arm fast-medium,no,,,,,,yes,9061a703
+928057,Lorcan Tucker,Lorcan Tucker,Ireland,wicketkeeper-batsman,right,,,,no,,,,,,yes,3979b5e0
+526441,Mark Adair,Mark Richard Adair,Ireland,all-rounder,right,pace,right,Right-arm fast-medium,yes,Mark Adair,Ireland,pace,right,Right-arm fast-medium,yes,fc55ec67
+1263361,Matthew Humphreys,Matthew James Humphreys,Ireland,bowler,right,spin,left,Slow left-arm orthodox,yes,Matthew Humphreys,Ireland,spin,left,Slow left-arm orthodox,yes,2c54c49b
+594992,Murray Commins,Murray Commins,Ireland,batsman,left,,,,yes,Murray Commins,Ireland,,,,yes,c537cf4d
+1112535,Neil Rock,Neil Alan Rock,Ireland,wicketkeeper,left,,,,yes,Neil Rock,Ireland,,,,yes,43f4087c
+303427,Paul Stirling,Paul Robert Stirling,Ireland,all-rounder,right,spin,right,Off Break,yes,Paul Stirling,Ireland,spin,right,Right-arm offbreak,yes,cf494ffe
+333000,Peter Moor,Peter Joseph Moor,Ireland,wicketkeeper-batsman,right,spin,right,Off Break,yes,Peter Moor,Ireland,spin,right,Right-arm offbreak,yes,a1d3540a
+1295901,Reuben Wilson,Reuben Brian Wilson,Ireland,bowler,right,pace,right,Right-arm medium,yes,Reuben Wilson,Ireland,pace,right,Right-arm medium,yes,81b0935a
+468573,Ross Adair,George Ross Adair,Ireland,bowler,right,spin,left,Slow left-arm orthodox,yes,Ross Adair,Ireland,spin,left,Slow left-arm orthodox,yes,4ec96094
+303508,Shane Getkate,Shane Charles Getkate,Ireland,all-rounder,right,pace,right,Right-arm medium-fast,yes,Shane Getkate,Ireland,pace,right,Right-arm medium-fast,yes,c8065f31
+1005257,Simi Singh,Simi Singh,Ireland,all-rounder,right,spin,right,Off Break,yes,Simi Singh,Ireland,spin,right,Right-arm offbreak,yes,c9945bdf
+961401,Stephen Doheny,Stephen Thomas Doheny,Ireland,batsman,right,,,,yes,Stephen Doheny,Ireland,,,,yes,4992d6f6
+547760,Theo van Woerkom,Theo Francis van Woerkom,Ireland,bowler,right,spin,left,Slow left-arm orthodox,yes,Theo van Woerkom,Ireland,spin,left,Slow left-arm orthodox,yes,70f2f922
+1253296,Thomas Mayes,Thomas Mayes,Ireland,bowler,right,pace,right,Right-arm medium-fast,yes,Thomas Mayes,Ireland,pace,right,Right-arm medium-fast,yes,9aedf23b
+1195143,Tim Tector,Tim Heatley Tector,Ireland,bowler,right,spin,right,Off Break,yes,Tim Tector,Ireland,spin,right,Right-arm offbreak,yes,0348f9a5
+928073,William McClintock,William McClintock,Ireland,bowler,right,pace,right,Right-arm medium,yes,William McClintock,Ireland,pace,right,Right-arm medium,yes,b16ddb79
+450860,Adam Milne,Adam Fraser Milne,New Zealand,bowler,right,pace,right,Right-arm fast,yes,Adam Milne,New Zealand,pace,right,Right-arm fast,yes,350bb1b1
+1193546,Adithya Ashok,Adithya Ashok,New Zealand,bowler,right,spin,right,Leg Break Googly,yes,Adithya Ashok,New Zealand,spin,right,Legbreak googly,yes,321be7e3
+595783,Ajaz Patel,Ajaz Yunus Patel,New Zealand,bowler,left,spin,left,Slow left-arm orthodox,yes,Ajaz Patel,New Zealand,spin,left,Slow left-arm orthodox,yes,fbd4f01f
+1125536,Ben Lister,Benjamin George Lister,New Zealand,bowler,right,pace,left,Left-arm fast-medium,yes,Ben Lister,New Zealand,pace,left,Left-arm fast-medium,yes,79f5bc26
+959769,Ben Sears,Benjamin Vincent Sears,New Zealand,bowler,right,pace,right,Right-arm medium-fast,yes,Ben Sears,New Zealand,pace,right,Right-arm medium-fast,yes,e1891e00
+1410577,Bevon Jacobs,Bevon-John Jacobs,New Zealand,batsman,right,pace,right,Right-arm medium,yes,Bevon Jacobs,New Zealand,pace,right,Right-arm medium,yes,972f217b
+854909,Blair Tickner,Blair Marshall Tickner,New Zealand,bowler,right,pace,right,Right-arm medium-fast,yes,Blair Tickner,New Zealand,pace,right,Right-arm medium-fast,yes,48ad3373
+379890,Chad Bowes,Chad Jayson Bowes,New Zealand,bowler,right,pace,right,Right-arm medium,yes,Chad Bowes,New Zealand,pace,right,Right-arm medium,yes,45df0e72
+526021,Cole McConchie,Cole Edward McConchie,New Zealand,bowler,right,spin,right,Off Break,yes,Cole McConchie,New Zealand,spin,right,Right-arm offbreak,yes,d285acaf
+440517,Dane Cleaver,Dane Cleaver,New Zealand,wicketkeeper,right,spin,right,Leg Break,yes,Dane Cleaver,New Zealand,spin,right,Legbreak,yes,e3a949be
+381743,Daryl Mitchell,Daryl Joseph Mitchell,New Zealand,all-rounder,right,pace,right,Right-arm medium,yes,Daryl Mitchell,New Zealand,pace,right,Right-arm medium,yes,eade4650
+596099,Dean Foxcroft,Dean Foxcroft,New Zealand,batsman,right,spin,right,Off Break,yes,Dean Foxcroft,New Zealand,spin,right,Right-arm offbreak,yes,ed6894af
+379140,Devon Conway,Devon Philip Conway,New Zealand,wicketkeeper-batsman,left,pace,right,Right-arm medium,yes,Devon Conway,New Zealand,pace,right,Right-arm medium,yes,df5a6881
+362541,Doug Bracewell,Douglas Andrew John Bracewell,New Zealand,all-rounder,right,pace,right,Right-arm fast-medium,yes,Doug Bracewell,New Zealand,pace,right,Right-arm fast-medium,yes,2e9fdf9b
+959759,Finn Allen,Finnley Hugh Allen,New Zealand,batsman,right,,,,yes,Finn Allen,New Zealand,,,,yes,bf74b130
+823509,Glenn Phillips,Glenn Dominic Phillips,New Zealand,all-rounder,right,spin,right,Off Break,yes,Glenn Phillips,New Zealand,spin,right,Right-arm offbreak,yes,9a46c4e5
+226493,Hamish Bennett,Hamish Kyle Bennett,New Zealand,bowler,left,pace,right,Right-arm medium-fast,yes,Hamish Bennett,New Zealand,pace,right,Right-arm medium-fast,yes,94238673
+539511,Henry Nicholls,Henry Michael Nicholls,New Zealand,batsman,left,spin,right,Off Break,yes,Henry Nicholls,New Zealand,spin,right,Right-arm offbreak,yes,03521fd3
+962831,Henry Shipley,Henry Burton Shipley,New Zealand,bowler,right,pace,right,Right-arm medium-fast,yes,Henry Shipley,New Zealand,pace,right,Right-arm medium-fast,yes,5426de63
+559066,Ish Sodhi,Inderbir Singh Sodhi,New Zealand,all-rounder,right,spin,right,Leg Break,yes,Ish Sodhi,New Zealand,spin,right,Legbreak,yes,641ac5ff
+547766,Jacob Duffy,Jacob Andrew Duffy,New Zealand,bowler,right,pace,right,Right-arm fast-medium,yes,Jacob Duffy,New Zealand,pace,right,Right-arm fast-medium,yes,dadbdb68
+355269,James Neesham,James Douglas Sheahan Neesham,New Zealand,all-rounder,left,pace,right,Right-arm medium-fast,yes,James Neesham,New Zealand,pace,right,Right-arm medium-fast,yes,9219eff0
+1206769,Jayden Lennox,Jayden Richard Lennox,New Zealand,bowler,left,spin,left,Slow left-arm orthodox,yes,Jayden Lennox,New Zealand,spin,left,Slow left-arm orthodox,yes,07793daf
+928015,Josh Clarkson,Joshua Andrew Clarkson,New Zealand,bowler,right,pace,right,Right-arm medium,yes,Josh Clarkson,New Zealand,pace,right,Right-arm medium,yes,bed90114
+1129634,Katene Clarke,Katene Dalton Clarke,New Zealand,bowler,right,pace,right,Right-arm medium-fast,yes,Katene Clarke,New Zealand,pace,right,Right-arm medium-fast,yes,7a12be0a
+1193549,Kristian Clarke,Kristian David Charles Clarke,New Zealand,bowler,right,pace,right,Right-arm medium,yes,Kristian Clarke,New Zealand,pace,right,Right-arm medium,yes,1e1a8922
+625960,Kyle Jamieson,Kyle Alex Jamieson,New Zealand,all-rounder,right,pace,right,Right-arm fast-medium,yes,Kyle Jamieson,New Zealand,pace,right,Right-arm fast-medium,yes,68c56d09
+493773,Lockie Ferguson,Lachlan Hammond Ferguson,New Zealand,all-rounder,right,pace,right,Right-arm fast,yes,Lockie Ferguson,New Zealand,pace,right,Right-arm fast,yes,2f9d0389
+438563,Mark Chapman,Mark Sinclair Chapman,New Zealand,batsman,left,spin,left,Slow left-arm orthodox,yes,Mark Chapman,New Zealand,spin,left,Slow left-arm orthodox,yes,7fa12533
+1129635,Matt Fisher,Matthew John Fisher,New Zealand,bowler,right,pace,right,Right-arm medium-fast,yes,Matthew Fisher,New Zealand,pace,right,Right-arm medium-fast,yes,7068c81e
+506612,Matt Henry,Matthew James Henry,New Zealand,all-rounder,right,pace,right,Right-arm fast-medium,yes,Matt Henry,New Zealand,pace,right,Right-arm fast-medium,yes,e84ac20c
+326968,Michael Bracewell,Michael Gordon Bracewell,New Zealand,all-rounder,left,spin,right,Off Break,yes,Michael Bracewell,New Zealand,spin,right,Right-arm offbreak,yes,e38bce7a
+622772,Michael Rae,Michael David Rae,New Zealand,bowler,right,pace,right,Right-arm medium-fast,yes,Michael Rae,New Zealand,pace,right,Right-arm medium-fast,yes,1c06d60a
+380956,Michael Rippon,Michael James Grattan Rippon,New Zealand,all-rounder,right,spin,left,Left-arm wrist spin,yes,Michael Rippon,New Zealand,spin,left,Left-arm wrist-spin,yes,b03db6fa
+1243738,Mitchell Hay,Mitchell James Hay,New Zealand,wicketkeeper,right,,,,yes,Mitchell Hay,New Zealand,,,,yes,732f711b
+502714,Mitchell Santner,Mitchell Josef Santner,New Zealand,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Mitchell Santner,New Zealand,spin,left,Slow left-arm orthodox,yes,e4a0deae
+1360563,Muhammad Abbas,Muhammad Arslan Abbas,New Zealand,batsman,right,pace,left,Left-arm medium-fast,yes,Muhammad Abbas,New Zealand,pace,left,Left-arm medium-fast,yes,c3576908
+959771,Nathan Smith,Nathan Gregory Smith,New Zealand,all-rounder,right,pace,right,Right-arm medium-fast,yes,Nathan Smith,New Zealand,pace,right,Right-arm medium-fast,yes,05b1aef8
+559062,Nic Kelly,Nicholas Frederick Kelly,New Zealand,bowler,left,spin,left,Slow left-arm orthodox,yes,Nick Kelly,New Zealand,spin,left,Slow left-arm orthodox,yes,97f437ed
+959767,Rachin Ravindra,Rachin Ravindra,New Zealand,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Rachin Ravindra,New Zealand,spin,left,Slow left-arm orthodox,yes,ba5e1069
+1161034,Raunaq Kapur,Raunaq Kapur,New Zealand,bowler,left,spin,right,Off Break,yes,Raunaq Kapur,New Zealand,spin,right,Right-arm offbreak,yes,8831b92e
+1193528,Rhys Mariu,Rhys Andrew Mariu,New Zealand,batsman,right,pace,right,Right-arm medium,yes,Rhys Mariu,New Zealand,pace,right,Right-arm medium,yes,6d816d13
+539548,Scott Kuggeleijn,Scott Christopher Kuggeleijn,New Zealand,bowler,right,pace,right,Right-arm fast-medium,yes,Scott Kuggeleijn,New Zealand,pace,right,Right-arm fast-medium,yes,fef92afc
+1290929,Tim Robinson,Timothy Blake Robinson,New Zealand,batsman,right,pace,right,Right-arm medium,yes,Tim Robinson,New Zealand,pace,right,Right-arm medium,yes,5d664346
+625964,Tim Seifert,Tim Louis Seifert,New Zealand,wicketkeeper-batsman,right,,,,yes,Tim Seifert,New Zealand,,,,yes,4663bd23
+213674,Todd Astle,Todd Duncan Astle,New Zealand,bowler,right,spin,right,Leg Break,yes,Todd Astle,New Zealand,spin,right,Legbreak,yes,383dd431
+440516,Tom Blundell,Thomas Ackland Blundell,New Zealand,wicketkeeper-batsman,right,spin,right,Off Break,yes,Tom Blundell,New Zealand,spin,right,Right-arm offbreak,yes,21e5f325
+388802,Tom Latham,Thomas William Maxwell Latham,New Zealand,wicketkeeper-batsman,left,pace,right,Right-arm medium,yes,Tom Latham,New Zealand,pace,right,Right-arm medium,yes,e824e6ee
+277912,Trent Boult,Trent Alexander Boult,New Zealand,all-rounder,right,pace,left,Left-arm fast-medium,yes,Trent Boult,New Zealand,pace,left,Left-arm fast-medium,yes,a818c1be
+1211825,Will O'Rourke,William Peter O'Rourke,New Zealand,all-rounder,right,pace,right,Right-arm fast,yes,Will O’Rourke,New Zealand,pace,right,Right-arm fast,yes,cb9b8664
+547749,Will Young,William Alexander Young,New Zealand,batsman,right,spin,right,Off Break,yes,Will Young,New Zealand,spin,right,Right-arm offbreak,yes,8afe73e2
+793441,Aamer Jamal,Aamer Jamal,Pakistan,all-rounder,right,pace,right,Right-arm medium-fast,yes,Aamer Jamal,Pakistan,pace,right,Right-arm medium-fast,yes,a8e54ef4
+1158538,Abbas Afridi,Muhammad Abbas Afridi,Pakistan,bowler,right,pace,right,Right-arm medium-fast,yes,Abbas Afridi,Pakistan,pace,right,Right-arm medium-fast,yes,2cec2a92
+1073106,Abdul Samad,Abdul Samad,Pakistan,batsman,right,,,,no,,,,,,yes,8e554b6b
+1398224,Abdullah Fazal,Abdullah Fazal,Pakistan,batsman,left,,,,yes,Abdullah Fazal,Pakistan,,,,yes,88fece92
+922941,Abdullah Shafique,Abdullah Shafique,Pakistan,batsman,right,spin,right,Off Break,yes,Abdullah Shafique,Pakistan,spin,right,Right-arm offbreak,yes,fc2fffb5
+39950,Abid Ali,Abid Ali,Pakistan,batsman,right,spin,right,Leg Break,yes,Abid Ali,Pakistan,spin,right,Legbreak,yes,5d836a72
+734459,Abrar Ahmed,Abrar Ahmed,Pakistan,bowler,right,spin,right,Leg Break Googly,yes,Abrar Ahmed,Pakistan,spin,right,Legbreak googly,yes,abb7c76c
+1249564,Ahmed Daniyal,Ahmed Daniyal,Pakistan,bowler,right,pace,right,Right-arm medium-fast,yes,Ahmed Daniyal,Pakistan,pace,right,Right-arm medium-fast,yes,9656afbf
+1203669,Akif Javed,Akif Javed,Pakistan,bowler,right,pace,left,Left-arm medium-fast,yes,Akif Javed,Pakistan,pace,left,Left-arm medium-fast,yes,99d7d5b7
+1332783,Arafat Minhas,Arafat Minhas,Pakistan,all-rounder,left,spin,left,Slow left-arm orthodox,yes,1332783,,,,,yes,f2e8b37c
+1130463,Arshad Iqbal,Arshad Iqbal,Pakistan,bowler,right,pace,right,Right-arm medium-fast,yes,Arshad Iqbal,Pakistan,pace,right,Right-arm medium-fast,yes,ed031922
+385065,Asif Afridi,Asif Khan Afridi,Pakistan,bowler,left,spin,left,Slow left-arm orthodox,yes,Asif Afridi,Pakistan,spin,left,Slow left-arm orthodox,yes,9489623e
+494230,Asif Ali,Asif Ali,Pakistan,batsman,right,spin,right,Off Break,yes,Asif Ali,Pakistan,spin,right,Right-arm offbreak,yes,0a4736eb
+1137262_SPLIT_T20_UNKNOWN,Azam Khan,Azam Khan,Pakistan,wicketkeeper-batsman,right,,,,no,,,,,,no,
+1339355,Azan Awais,Azan Awais,Pakistan,batsman,left,,,,yes,Azan Awais,Pakistan,,,,yes,89f1d2d6
+348144,Babar Azam,Mohammad Babar Azam,Pakistan,batsman,right,spin,right,Off Break,yes,Babar Azam,Pakistan,spin,right,Right-arm offbreak,yes,8a75e999
+793411,Danish Aziz,Danish Aziz,Pakistan,bowler,left,spin,left,Slow left-arm orthodox,yes,Danish Aziz,Pakistan,spin,left,Slow left-arm orthodox,yes,a4799701
+681117,Faheem Ashraf,Faheem Ashraf,Pakistan,all-rounder,left,pace,right,Right-arm medium,yes,Faheem Ashraf,Pakistan,pace,right,Right-arm medium,yes,bd4ea627
+1171134,Faisal Akram,Faisal Akram,Pakistan,bowler,left,spin,left,Left-arm wrist spin,yes,Faisal Akram,Pakistan,spin,left,Left-arm wrist-spin,yes,14661bf3
+512191,Fakhar Zaman,Fakhar Zaman,Pakistan,batsman,left,spin,left,Slow left-arm orthodox,yes,Fakhar Zaman,Pakistan,spin,left,Slow left-arm orthodox,yes,1777c020
+40250,Fawad Alam,Fawad Alam,Pakistan,batsman,left,spin,left,Slow left-arm orthodox,yes,Fawad Alam,Pakistan,spin,left,Slow left-arm orthodox,yes,61f05b05
+1295902,Ghazi Ghori,Muhammad Ghazi Ghori,Pakistan,batsman,right,,,,yes,Ghazi Ghori,Pakistan,,,,yes,28b61a48
+1160970,Haider Ali,Haider Ali,Pakistan,batsman,left,spin,left,Slow left-arm orthodox,no,,,,,,yes,dd572696
+1161606,Haris Rauf,Haris Rauf,Pakistan,bowler,right,pace,right,Right-arm fast,yes,Haris Rauf,Pakistan,pace,right,Right-arm fast,yes,24bb1c2f
+318788,Haris Sohail,Haris Sohail,Pakistan,batsman,left,spin,left,Slow left-arm orthodox,yes,Haris Sohail,Pakistan,spin,left,Slow left-arm orthodox,yes,7cd0a092
+681305,Hasan Ali,Hasan Ali,Pakistan,bowler,right,pace,right,Right-arm medium-fast,yes,Hasan Ali,Pakistan,pace,right,Right-arm medium-fast,yes,2911de16
+1398125,Hasan Nawaz,Hasan Nawaz,Pakistan,batsman,right,pace,right,Right-arm medium,yes,Hasan Nawaz,Pakistan,pace,right,Right-arm medium,yes,26a8b2fe
+1171127,Haseebullah Khan,Haseebullah Khan,Pakistan,batsman,left,,,,yes,Haseebullah Khan,Pakistan,,,,yes,5691931a
+628240,Hussain Talat,Mohammad Hussain Talat,Pakistan,batsman,left,pace,right,Right-arm medium-fast,yes,Hussain Talat,Pakistan,pace,right,Right-arm medium-fast,yes,bb4b445b
+480603,Iftikhar Ahmed,Iftikhar Ahmed,Pakistan,all-rounder,right,spin,right,Off Break,no,,,,,,yes,29e253dd
+568276,Imam-ul-Haq,Imam-ul-Haq,Pakistan,batsman,left,,,,yes,Imam-ul-Haq,Pakistan,,,,yes,40c041ea
+1402359,Jahandad Khan,Jahandad Khan,Pakistan,bowler,left,pace,left,Left-arm medium-fast,yes,Jahandad Khan,Pakistan,pace,left,Left-arm medium-fast,yes,22d73540
+623636,Kamran Ghulam,Kamran Ghulam,Pakistan,batsman,right,spin,left,Slow left-arm orthodox,yes,Kamran Ghulam,Pakistan,spin,left,Slow left-arm orthodox,yes,35f4cf7e
+1282247,Kashif Ali,Kashif Ali,Pakistan,bowler,,,,,no,,,,,,yes,4fcd2b6b
+1329699,Khawaja Nafay,Khawaja Muhammad Nafay,Pakistan,bowler,right,spin,right,Off Break,yes,Khawaja Nafay,Pakistan,spin,right,Right-arm offbreak,yes,3cf54e77
+716733,Khushdil Shah,Khushdil Shah,Pakistan,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Khushdil Shah,Pakistan,spin,left,Slow left-arm orthodox,yes,fce581b5
+1244154,Maaz Sadaqat,Maaz Sadaqat,Pakistan,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Maaz Sadaqat,Pakistan,spin,left,Slow left-arm orthodox,yes,6d9560f3
+556684,Mir Hamza,Mir Hamza,Pakistan,bowler,left,pace,left,Left-arm medium,yes,Mir Hamza,Pakistan,pace,left,Left-arm medium,yes,cb1a782a
+652507,Mirza Baig,Mirza Baig,Pakistan,batsman,,,,,no,,,,,,yes,cd14fffb
+389666,Mohammad Abbas,Mohammad Abbas,Pakistan,bowler,right,pace,right,Right-arm medium-fast,yes,Mohammad Abbas,Pakistan,pace,right,Right-arm medium-fast,yes,a089f93f
+343069,Mohammad Ali,Mohammad Ali,Pakistan,bowler,,pace,right,Right-arm fast,no,,,,,,yes,8c0a86ef
+1205559,Mohammad Haris,Mohammad Haris,Pakistan,wicketkeeper,right,spin,right,Off Break,yes,1205559,,,,,yes,ff3f6fc1
+1158100,Mohammad Hasnain,Mohammad Hasnain,Pakistan,bowler,right,pace,right,Right-arm fast,yes,Mohammad Hasnain,Pakistan,pace,right,Right-arm fast,yes,8596fe80
+348148,Mohammad Nawaz,Mohammad Nawaz,Pakistan,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Mohammad Nawaz,Pakistan,spin,left,Slow left-arm orthodox,yes,3086f7a4
+323389,Mohammad Rizwan,Mohammad Rizwan,Pakistan,wicketkeeper-batsman,right,pace,right,Right-arm medium,yes,Mohammad Rizwan,Pakistan,pace,right,Right-arm medium,yes,2f26ac1a
+1185538,Mohammad Wasim,Mohammad Wasim,Pakistan,bowler,right,pace,right,Right-arm fast-medium,no,,,,,,yes,9e9af5f2
+1217487,Mubasir Khan,Mubasir Khan,Pakistan,bowler,right,spin,right,Off Break,yes,Mubasir Khan,Pakistan,spin,right,Right-arm offbreak,yes,7264b765
+1212781,Muhammad Hurraira,Muhammad Hurraira,Pakistan,batsman,right,,,,no,,,,,,yes,9d2d03ef
+1199426,Muhammad Irfan,Muhammad Irfan Khan,Pakistan,bowler,right,pace,right,Right-arm medium-fast,yes,Irfan Khan,Pakistan,pace,right,Right-arm medium-fast,yes,ee95065d
+1158088,Naseem Shah,Naseem Shah,Pakistan,bowler,right,pace,right,Right-arm fast,yes,Naseem Shah,Pakistan,pace,right,Right-arm fast,yes,9c9af282
+238672,Noman Ali,Noman Ali,Pakistan,bowler,left,spin,left,Slow left-arm orthodox,no,,,,,,yes,54c58a5e
+1126059,Omair Yousuf,Omair Bin Yousuf,Pakistan,batsman,right,,,,yes,Omair Yousuf,Pakistan,,,,yes,f8e3c0f8
+1185475,Qasim Akram,Qasim Akram,Pakistan,bowler,right,spin,right,Off Break,yes,Qasim Akram,Pakistan,spin,right,Right-arm offbreak,yes,b6359668
+1092313,Rohail Nazir,Rohail Nazir,Pakistan,batsman,right,,,,yes,Rohail Nazir,Pakistan,,,,yes,522bea89
+1339104,Saad Masood,Chaudhry Saad Masood,Pakistan,all-rounder,right,spin,right,Leg Break Googly,yes,Saad Masood,Pakistan,spin,right,Legbreak googly,yes,b2498b5d
+647785,Sahibzada Farhan,Sahibzada Farhan,Pakistan,batsman,right,,,,yes,Sahibzada Farhan,Pakistan,,,,yes,1aba45cd
+1161031,Saim Ayub,Saim Ayub,Pakistan,all-rounder,left,spin,right,Off Break,yes,Saim Ayub,Pakistan,spin,right,Right-arm offbreak,yes,33609a8c
+623977,Salman Agha,Salman Agha,Pakistan,all-rounder,right,spin,right,Off Break,no,,,,,,yes,89c16049
+1252522,Salman Mirza,Mohammad Salman Mirza,Pakistan,bowler,right,pace,left,Left-arm fast,yes,Salman Mirza,Pakistan,pace,left,Left-arm fast,yes,7ab1eab7
+652687,Saud Shakeel,Saud Shakeel,Pakistan,batsman,left,spin,left,Slow left-arm orthodox,yes,Saud Shakeel,Pakistan,spin,left,Slow left-arm orthodox,yes,d07c1b2f
+922943,Shadab Khan,Shadab Khan,Pakistan,all-rounder,right,spin,right,Leg Break,yes,Shadab Khan,Pakistan,spin,right,Legbreak,yes,9de62878
+1072470,Shaheen Afridi,Shaheen Shah Afridi,Pakistan,bowler,left,pace,left,Left-arm fast,yes,Shaheen Shah Afridi,Pakistan,pace,left,Left-arm fast,yes,45a7e761
+1203995,Shahnawaz Dahani,Shahnawaz Dahani,Pakistan,bowler,right,pace,right,Right-arm fast-medium,no,,,,,,yes,7ccbb09f
+1339105,Shamyl Hussain,Shamyl Hussain,Pakistan,batsman,left,,,,yes,Shamyl Hussain,Pakistan,,,,yes,d3395043
+233901,Shan Masood,Shan Masood Khan,Pakistan,batsman,left,pace,right,Right-arm medium-fast,yes,Shan Masood,Pakistan,pace,right,Right-arm medium-fast,yes,6843a783
+227762,Sharjeel Khan,Sharjeel Khan,Pakistan,batsman,left,spin,right,Leg Break,yes,Sharjeel Khan,Pakistan,spin,right,Legbreak,yes,193ef196
+43266,Sohaib Maqsood,Sohaib Maqsood,Pakistan,batsman,right,spin,right,Off Break,yes,Sohaib Maqsood,Pakistan,spin,right,Right-arm offbreak,yes,b98b5e1c
+1329697,Sufyan Moqim,Sufyan Moqim,Pakistan,bowler,left,spin,left,Left-arm wrist spin,no,,,,,,yes,4277234d
+824159,Tayyab Tahir,Tayyab Tahir,Pakistan,bowler,right,spin,right,Leg Break Googly,yes,Tayyab Tahir,Pakistan,spin,right,Legbreak googly,yes,431f8af4
+647667,Usama Mir,Usama Mir,Pakistan,bowler,right,spin,right,Leg Break,yes,Usama Mir,Pakistan,spin,right,Legbreak,yes,6dd8b88c
+348152,Usman Qadir,Usman Qadir,Pakistan,bowler,left,spin,right,Leg Break,yes,Usman Qadir,Pakistan,spin,right,Legbreak,yes,33742f04
+1333415,Usman Tariq,Usman Tariq,Pakistan,bowler,right,spin,right,Off Break,yes,Usman Tariq,Pakistan,spin,right,Right-arm offbreak,yes,e94d1dcd
+43685,Yasir Shah,Yasir Shah,Pakistan,bowler,right,spin,right,Leg Break Googly,yes,Yasir Shah,Pakistan,spin,right,Legbreak googly,yes,f2800ef3
+348154,Zafar Gohar,Zafar Gohar Khan,Pakistan,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Zafar Gohar,Pakistan,spin,left,Slow left-arm orthodox,yes,9fd3a210
+433614,Zahid Mahmood,Zahid Mahmood,Pakistan,bowler,right,spin,right,Leg Break,yes,Zahid Mahmood,Pakistan,spin,right,Legbreak,yes,ba158afd
+1272475,Zaman Khan,Zaman Khan,Pakistan,bowler,right,pace,right,Right-arm fast,yes,Zaman Khan,Pakistan,pace,right,Right-arm fast,yes,28392e11
+600498,Aiden Markram,Aiden Kyle Markram,South Africa,batsman,right,spin,right,Off Break,yes,Aiden Markram,South Africa,spin,right,Right-arm offbreak,yes,6a26221c
+540316,Andile Phehlukwayo,Andile Lucky Phehlukwayo,South Africa,all-rounder,left,pace,right,Right-arm medium-fast,yes,Andile Phehlukwayo,South Africa,pace,right,Right-arm medium-fast,yes,ab6b1c45
+1070754,Andile Simelane,Andile Simelane,South Africa,bowler,right,pace,right,Right-arm fast,yes,Andile Simelane,South Africa,pace,right,Right-arm fast,yes,ebb74564
+481979,Anrich Nortje,Anrich Arno Nortje,South Africa,bowler,right,pace,right,Right-arm fast,yes,Anrich Nortje,South Africa,pace,right,Right-arm fast,yes,acdc62f5
+379927,Beuran Hendricks,Beuran Eric Hendricks,South Africa,bowler,left,pace,left,Left-arm fast-medium,yes,Beuran Hendricks,South Africa,pace,left,Left-arm fast-medium,yes,b56dc5f7
+553249,Bjorn Fortuin,Bjorn Carl Fortuin,South Africa,all-rounder,right,spin,left,Slow left-arm orthodox,yes,Bjorn Fortuin,South Africa,spin,left,Slow left-arm orthodox,yes,9a2fc964
+596137,Clyde Fortuin,Clyde Fortuin,South Africa,batsman,right,,,,yes,Clyde Fortuin,South Africa,,,,yes,f25cebec
+949461,Codi Yusuf,Codi Ethan Yusuf,South Africa,bowler,right,pace,right,Right-arm medium,yes,Codi Yusuf,South Africa,pace,right,Right-arm medium,yes,f2397e48
+429224,Connor Esterhuizen,Connor Esterhuizen,South Africa,batsman,right,,,,no,,,,,,yes,1a950c8c
+594322,Corbin Bosch,Corbin Bosch,South Africa,all-rounder,right,pace,right,Right-arm fast-medium,no,,,,,,yes,172dff15
+327947,Dane Paterson,Dane Paterson,South Africa,bowler,right,pace,right,Right-arm fast-medium,no,,,,,,yes,462d7c62
+379926,Dane Piedt,Dane Leeroy Piedt,South Africa,bowler,right,spin,right,Off Break,yes,Dane Piedt,South Africa,spin,right,Right-arm offbreak,yes,537f5ab2
+501907,Daryn Dupavillon,Daryn Miles Dupavillon,South Africa,bowler,right,pace,right,Right-arm fast,yes,Daryn Dupavillon,South Africa,pace,right,Right-arm fast,yes,7cb2d9d2
+498585,David Bedingham,David Guy Bedingham,South Africa,batsman,right,,,,yes,David Bedingham,South Africa,,,,yes,a1b69936
+321777,David Miller,David Andrew Miller,South Africa,batsman,left,spin,right,Off Break,yes,David Miller,South Africa,spin,right,Right-arm offbreak,yes,d67d5f00
+1070665,Dewald Brevis,Dewald Brevis,South Africa,batsman,right,spin,right,Leg Break,yes,Dewald Brevis,South Africa,spin,right,Legbreak,yes,844e79d1
+23585,Dian Forrester,Dian Forrester,South Africa,batsman,left,,,,no,,,,,,yes,17bcec2a
+698315,Donovan Ferreira,Donovan Ferreira,South Africa,bowler,right,spin,right,Off Break,yes,Donovan Ferreira,South Africa,spin,right,Right-arm offbreak,yes,f0af99a7
+486679,Duanne Olivier,Duanne Olivier,South Africa,bowler,right,pace,right,Right-arm fast-medium,yes,Duanne Olivier,South Africa,pace,right,Right-arm fast-medium,yes,a8e56914
+327830,Dwaine Pretorius,Dwaine Pretorius,South Africa,all-rounder,right,pace,right,Right-arm medium-fast,no,,,,,,yes,11614d87
+698343,Eathan Bosch,Eathan Bosch,South Africa,bowler,right,pace,right,Right-arm fast,yes,Eathan Bosch,South Africa,pace,right,Right-arm fast,yes,28d6c44d
+481975,Edward Moore,Edward Michael Moore,South Africa,bowler,left,spin,right,Off Break,yes,Edward Moore,South Africa,spin,right,Right-arm offbreak,yes,6ca6d885
+481875,George Linde,George Fredrik Linde,South Africa,all-rounder,left,spin,left,Slow left-arm orthodox,yes,George Linde,South Africa,spin,left,Slow left-arm orthodox,yes,e5437608
+596010,Gerald Coetzee,Gerald Coetzee,South Africa,bowler,right,pace,right,Right-arm fast,yes,Gerald Coetzee,South Africa,pace,right,Right-arm fast,yes,3204c99f
+594329,Gerrit Snyman,Gerrit Jacques Snyman,South Africa,bowler,right,spin,right,Off Break,yes,Jacques Snyman,South Africa,spin,right,Right-arm offbreak,yes,a3ae63f4
+481803,Glenton Stuurman,Glenton Anric Stuurman,South Africa,bowler,right,pace,right,Right-arm fast-medium,yes,Glenton Stuurman,South Africa,pace,right,Right-arm fast-medium,yes,d4d37c31
+605680,Janneman Malan,Janneman Nieuwoudt Malan,South Africa,batsman,right,spin,right,Leg Break,yes,Janneman Malan,South Africa,spin,right,Legbreak,yes,f76d7466
+498582,Jason Smith,Jason Franswyn Smith,South Africa,batsman,right,pace,right,Right-arm medium-fast,yes,Jason Smith,South Africa,pace,right,Right-arm medium-fast,yes,91cd48e0
+1255248,Jordan Hermann,Jordan Hermann,South Africa,batsman,left,,,,yes,Jordan Hermann,South Africa,,,,yes,e87aeca2
+545467,Junior Dala,Carl Junior Dala,South Africa,bowler,right,pace,right,Right-arm medium,yes,Junior Dala,South Africa,pace,right,Right-arm medium,yes,1cb14aa4
+550215,Kagiso Rabada,Kagiso Rabada,South Africa,bowler,left,pace,right,Right-arm fast,yes,Kagiso Rabada,South Africa,pace,right,Right-arm fast,yes,e62dd25d
+485676,Keegan Petersen,Keegan Darryl Petersen,South Africa,batsman,right,spin,right,Leg Break,yes,Keegan Petersen,South Africa,spin,right,Legbreak,yes,bf64dc29
+267724,Keshav Maharaj,Keshav Athmanand Maharaj,South Africa,bowler,right,spin,left,Slow left-arm orthodox,yes,Keshav Maharaj,South Africa,spin,left,Slow left-arm orthodox,yes,0b60eb09
+318842,Khayelihle Zondo,Khayelihle Zondo,South Africa,bowler,right,spin,right,Off Break,yes,Khaya Zondo,South Africa,spin,right,Right-arm offbreak,yes,4aad78d3
+1294342,Kwena Maphaka,Kwena Tshegofatso Maphaka,South Africa,bowler,left,pace,left,Left-arm fast,yes,Kwena Maphaka,South Africa,pace,left,Left-arm fast,yes,107c26fb
+595004,Kyle Verreynne,Kyle Verreynne,South Africa,wicketkeeper-batsman,right,spin,right,Off Break,yes,Kyle Verreynne,South Africa,spin,right,Right-arm offbreak,yes,bf814547
+596073,Lesego Senokwane,Lesego Senokwane,South Africa,bowler,right,spin,right,Off Break,yes,Lesego Senokwane,South Africa,spin,right,Right-arm offbreak,yes,7d9b4224
+1385640,Lhuan-dre Pretorius,Lhuan-dre Gilbert Pretorius,South Africa,batsman,left,,,,yes,Lhuan-dre Pretorius,South Africa,,,,yes,60aa2db3
+379887,Lizaad Williams,Lizaad Buyron Williams,South Africa,bowler,left,pace,right,Right-arm medium-fast,yes,Lizaad Williams,South Africa,pace,right,Right-arm medium-fast,yes,a1d95bd8
+542023,Lungi Ngidi,Lungisani True-man Ngidi,South Africa,bowler,right,pace,right,Right-arm fast-medium,yes,Lungi Ngidi,South Africa,pace,right,Right-arm fast-medium,yes,f834dcfc
+698143,Lutho Sipamla,Lubabalo Lutho Sipamla,South Africa,bowler,right,pace,right,Right-arm fast-medium,yes,Lutho Sipamla,South Africa,pace,right,Right-arm fast-medium,yes,f892fcf9
+696401,Marco Jansen,Marco Jansen,South Africa,all-rounder,right,pace,left,Left-arm fast,no,,,,,,yes,81c36ee9
+595267,Matthew Breetzke,Matthew Paul Breetzke,South Africa,batsman,right,,,,yes,Matthew Breetzke,South Africa,,,,yes,35f173a0
+948593,Mihlali Mpongwana,Mihlali Mpongwana,South Africa,bowler,right,pace,right,Right-arm medium,yes,Mihlali Mpongwana,South Africa,pace,right,Right-arm medium,yes,547c5509
+971349,Nandre Burger,Nandre Burger,South Africa,bowler,left,pace,left,Left-arm fast-medium,yes,Nandre Burger,South Africa,pace,left,Left-arm fast-medium,yes,465aa633
+742489,Neil Brand,Neil Brand,South Africa,batsman,left,spin,left,Slow left-arm orthodox,yes,Neil Brand,South Africa,spin,left,Slow left-arm orthodox,yes,68790da2
+946483,Nqabayomzi Peter,Nqabayomzi Peter,South Africa,bowler,right,spin,right,Leg Break,yes,Nqabayomzi Peter,South Africa,spin,right,Legbreak,yes,212aeedd
+1414819,Nqobani Mokoena,Nqobani Mokoena,South Africa,batsman,right,pace,right,Right-arm fast-medium,yes,Nqobani Mokoena,South Africa,pace,right,Right-arm fast-medium,yes,201facae
+535353,Ottneil Baartman,Ottneil Emile Graham Baartman,South Africa,bowler,right,pace,right,Right-arm medium-fast,yes,Ottneil Baartman,South Africa,pace,right,Right-arm medium-fast,yes,6b9eb501
+499560,Patrick Kruger,Patrick Earl Kruger,South Africa,bowler,right,pace,right,Right-arm medium,yes,Patrick Kruger,South Africa,pace,right,Right-arm medium,yes,39181592
+266268,Pite van Biljon,Petrus Johannes van Biljon,South Africa,wicketkeeper-batsman,right,pace,right,Right-arm medium,yes,Pite van Biljon,South Africa,pace,right,Right-arm medium,yes,4025c262
+437438,Prenelan Subrayen,Prenelan Subrayen,South Africa,bowler,right,spin,right,Off Break,yes,Prenelan Subrayen,South Africa,spin,right,Right-arm offbreak,yes,7ec9711d
+379143,Quinton de Kock,Quinton de Kock,South Africa,wicketkeeper-batsman,left,,,,yes,Quinton de Kock,South Africa,,,,yes,372455c4
+337790,Rassie van der Dussen,Hendrik Erasmus van der Dussen,South Africa,batsman,right,spin,right,Leg Break,yes,Rassie van der Dussen,South Africa,spin,right,Legbreak,yes,9948e262
+595380,Raynard van Tonder,Raynard van Tonder,South Africa,batsman,right,,,,yes,Raynard van Tonder,South Africa,,,,yes,0ba03cec
+269280,Reeza Hendricks,Reeza Raphael Hendricks,South Africa,batsman,right,spin,right,Off Break,yes,Reeza Hendricks,South Africa,spin,right,Right-arm offbreak,yes,b8cc58c9
+318845,Rilee Rossouw,Rilee Roscoe Rossouw,South Africa,batsman,left,spin,right,Off Break,yes,Rilee Rossouw,South Africa,spin,right,Right-arm offbreak,yes,cad00a4d
+698321,Ruan de Swardt,Ruan de Swardt,South Africa,bowler,left,pace,right,Right-arm medium-fast,yes,Ruan de Swardt,South Africa,pace,right,Right-arm medium-fast,yes,57e1d7e4
+605661,Ryan Rickelton,Ryan David Rickelton,South Africa,wicketkeeper-batsman,left,,,,yes,Ryan Rickelton,South Africa,,,,yes,e66732f8
+324260,Sarel Erwee,Sarel Johannes Erwee,South Africa,batsman,left,spin,right,Off Break,yes,Sarel Erwee,South Africa,spin,right,Right-arm offbreak,yes,a3ce3d1d
+535393,Senuran Muthusamy,Senuran Muthusamy,South Africa,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Senuran Muthusamy,South Africa,spin,left,Slow left-arm orthodox,yes,7dfb8890
+393289,Shaun von Berg,Shaun von Berg,South Africa,bowler,right,spin,right,Leg Break,yes,Shaun von Berg,South Africa,spin,right,Legbreak,yes,ffd3fc37
+432960,Simon Harmer,Simon Ross Harmer,South Africa,bowler,right,spin,right,Off Break,yes,Simon Harmer,South Africa,spin,right,Right-arm offbreak,yes,23638956
+952207,Sinethemba Qeshile,Sinethemba Qeshile,South Africa,batsman,right,,,,yes,Sinethemba Qeshile,South Africa,,,,yes,94268960
+379776,Sisanda Magala,Sisanda Somila Bruce Magala,South Africa,bowler,right,pace,right,Right-arm fast-medium,yes,Sisanda Magala,South Africa,pace,right,Right-arm fast-medium,yes,8361e524
+379145,Tabraiz Shamsi,Tabraiz Shamsi,South Africa,bowler,right,spin,left,Left-arm wrist spin,yes,Tabraiz Shamsi,South Africa,spin,left,Left-arm wrist-spin,yes,a03bba42
+372116,Temba Bavuma,Temba Bavuma,South Africa,batsman,right,pace,right,Right-arm medium,yes,Temba Bavuma,South Africa,pace,right,Right-arm medium,yes,9ffd1ac1
+486672,Theunis de Bruyn,Theunis Booysen de Bruyn,South Africa,batsman,right,pace,right,Right-arm medium-fast,yes,Theunis de Bruyn,South Africa,pace,right,Right-arm medium-fast,yes,90d6cdea
+697183,Tony de Zorzi,Tony de Zorzi,South Africa,batsman,left,spin,right,Off Break,yes,Tony de Zorzi,South Africa,spin,right,Right-arm offbreak,yes,d3a1c63d
+595978,Tristan Stubbs,Tristan Stubbs,South Africa,batsman,right,spin,right,Off Break,yes,Tristan Stubbs,South Africa,spin,right,Right-arm offbreak,yes,85b3fab2
+594235,Tshepo Moreki,Tshepo Lebohang Moreki,South Africa,bowler,right,pace,right,Right-arm fast-medium,yes,Tshepo Moreki,South Africa,pace,right,Right-arm fast-medium,yes,36ea17c1
+265564,Wayne Parnell,Wayne Dillon Parnell,South Africa,all-rounder,left,pace,left,Left-arm medium-fast,yes,Wayne Parnell,South Africa,pace,left,Left-arm medium-fast,yes,3a60e0b5
+698189,Wiaan Mulder,Pieter Willem Adriaan Mulder,South Africa,all-rounder,right,pace,right,Right-arm medium,yes,Wiaan Mulder,South Africa,pace,right,Right-arm medium,yes,c96f6ac5
+429886,Wihan Lubbe,Wihan Johannes Lubbe,South Africa,bowler,left,spin,right,Off Break,yes,Wihan Lubbe,South Africa,spin,right,Right-arm offbreak,yes,10f42013
+550187,Zubayr Hamza,Zubayr Hamza,South Africa,batsman,right,spin,right,Leg Break,yes,Zubayr Hamza,South Africa,spin,right,Legbreak,yes,22feee04
+574178,Akila Dananjaya,Mahamarakkala Kurukulasooriya Patabendige Akila Dananjaya Perera,Sri Lanka,all-rounder,left,spin,right,Off Break,yes,Akila Dananjaya,Sri Lanka,spin,right,Right-arm offbreak,yes,5b16a806
+49764,Angelo Mathews,Angelo Davis Mathews,Sri Lanka,all-rounder,right,pace,right,Right-arm medium,yes,Angelo Mathews,Sri Lanka,pace,right,Right-arm medium,yes,896d78ad
+958691,Ashen Bandara,Koralegedera Nadeeja Ashen Bandara,Sri Lanka,batsman,right,spin,right,Leg Break,yes,Ashen Bandara,Sri Lanka,spin,right,Legbreak,yes,585dda5d
+786925,Asitha Fernando,Asitha Madusanka Fernando,Sri Lanka,bowler,right,pace,right,Right-arm medium-fast,yes,Asitha Fernando,Sri Lanka,pace,right,Right-arm medium-fast,yes,de3d549a
+784369,Avishka Fernando,Weerahandige Inol Avishka Fernando,Sri Lanka,batsman,right,pace,right,Right-arm medium-fast,yes,Avishka Fernando,Sri Lanka,pace,right,Right-arm medium-fast,yes,9550470d
+342619,Bhanuka Rajapaksa,Pramod Bhanuka Bandara Rajapaksa,Sri Lanka,batsman,left,pace,right,Right-arm medium,yes,Bhanuka Rajapaksa,Sri Lanka,pace,right,Right-arm medium,yes,6c882e9a
+629080,Binura Fernando,Binura Fernando,Sri Lanka,bowler,right,pace,right,Right-arm fast-medium,no,,,,,,yes,dabbd0ae
+1186658,C Wickramasinghe,Chamindu Wickramasinghe,Sri Lanka,bowler,left,pace,right,Right-arm medium,no,,,,,,yes,a5c48ed1
+1210293,Chamika Gunasekara,Chamika Deemantha Gunasekara,Sri Lanka,bowler,right,pace,right,Right-arm medium-fast,yes,Chamika Gunasekara,Sri Lanka,pace,right,Right-arm medium-fast,yes,dff2050b
+623695,Chamika Karunaratne,Chamika Karunaratne,Sri Lanka,all-rounder,right,pace,right,Right-arm medium-fast,yes,Chamika Karunaratne,Sri Lanka,pace,right,Right-arm medium-fast,yes,fb3e0d39
+784367,Charith Asalanka,Kariyawasam Indipalage Charith Asalanka,Sri Lanka,all-rounder,left,spin,right,Off Break,yes,Charith Asalanka,Sri Lanka,spin,right,Right-arm offbreak,yes,732c038e
+345821,Danishka Gunathilaka,Mashtayage Danushka Gunathilaka,Sri Lanka,all-rounder,left,spin,right,Off Break,yes,Danushka Gunathilaka,Sri Lanka,spin,right,Right-arm offbreak,yes,509a7ca1
+437316,Dasun Shanaka,Madagamagamage Dasun Shanaka,Sri Lanka,all-rounder,right,pace,right,Right-arm medium,yes,Dasun Shanaka,Sri Lanka,pace,right,Right-arm medium,yes,3ff033bb
+792519,Dhananjaya Lakshan,Pothotuwa Arachchige Dhananjaya Lakshan,Sri Lanka,bowler,left,pace,right,Right-arm medium-fast,yes,Dhananjaya Lakshan,Sri Lanka,pace,right,Right-arm medium-fast,yes,0a2184d9
+465793,Dhananjaya de Silva,Dhananjaya Maduranga de Silva,Sri Lanka,all-rounder,right,spin,right,Off Break,yes,Dhananjaya de Silva,Sri Lanka,spin,right,Right-arm offbreak,yes,7d608e12
+793007,Dilshan Madushanka,Lokumarakkalage Dilahan Madushanka,Sri Lanka,bowler,right,pace,left,Left-arm fast-medium,no,,,,,,yes,de7d833e
+227772,Dimuth Karunaratne,Frank Dimuth Madushanka Karunaratne,Sri Lanka,batsman,left,pace,right,Right-arm medium,yes,Dimuth Karunaratne,Sri Lanka,pace,right,Right-arm medium,yes,400e2d4d
+300628,Dinesh Chandimal,Lokuge Dinesh Chandimal,Sri Lanka,wicketkeeper-batsman,right,spin,right,Off Break,yes,Dinesh Chandimal,Sri Lanka,spin,right,Right-arm offbreak,yes,8dd02a98
+1152427,Dunith Wellalage,Dunith Nethmika Wellalage,Sri Lanka,bowler,left,spin,left,Slow left-arm orthodox,yes,Dunith Wellalage,Sri Lanka,spin,left,Slow left-arm orthodox,yes,736123bb
+721041,Dushan Hemantha,Munasinghe Arachchige Dushan Ishara Hemantha,Sri Lanka,bowler,right,spin,right,Leg Break,yes,Dushan Hemantha,Sri Lanka,spin,right,Legbreak,yes,58431ca0
+552152,Dushmantha Chameera,Pathira Vasan Dushmantha Chameera,Sri Lanka,bowler,right,pace,right,Right-arm fast,yes,Dushmantha Chameera,Sri Lanka,pace,right,Right-arm fast,yes,327b58d3
+1306214,Eshan Malinga,Kiribathgala Kankanamalage Eshan Malinga Dharmasena,Sri Lanka,bowler,left,pace,right,Right-arm fast-medium,yes,Eshan Malinga,Sri Lanka,pace,right,Right-arm fast-medium,yes,5750bcb4
+681681,Janith Liyanage,Kongala Liyanage Janith Vimukthi,Sri Lanka,batsman,right,pace,right,Right-arm fast-medium,yes,Janith Liyanage,Sri Lanka,pace,right,Right-arm fast-medium,yes,84212ffb
+370040,Jeffrey Vandersay,Jeffrey Dexter Francis Vandersay,Sri Lanka,all-rounder,right,spin,right,Leg Break,yes,Jeffrey Vandersay,Sri Lanka,spin,right,Legbreak,yes,aceb7654
+1075863,Kamil Mishara,Rajapaksha Vidana Pathiranalage Kamil Mishara,Sri Lanka,batsman,left,spin,right,Off Break,yes,Kamil Mishara,Sri Lanka,spin,right,Right-arm offbreak,yes,65cebd5d
+784373,Kamindu Mendis,Pasqual Handi Kamindu Dilanka Mendis,Sri Lanka,all-rounder,left,spin,right,Off Break,yes,Kamindu Mendis,Sri Lanka,spin,right,Right-arm offbreak,yes,08548b13
+499594,Kasun Rajitha,Chandrasekara Arachchilage Kasun Rajitha,Sri Lanka,bowler,right,pace,right,Right-arm medium-fast,yes,Kasun Rajitha,Sri Lanka,pace,right,Right-arm medium-fast,yes,8012d0b8
+629074,Kusal Mendis,Balapuwaduge Kusal Gimhan Mendis,Sri Lanka,wicketkeeper-batsman,right,spin,right,Leg Break,yes,Kusal Mendis,Sri Lanka,spin,right,Legbreak,yes,5d1e7582
+300631,Kusal Perera,Mathurage Don Kusal Janith Perera,Sri Lanka,wicketkeeper-batsman,left,,,,yes,Kusal Perera,Sri Lanka,,,,yes,f21043a5
+784375,Lahiru Kumara,Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara,Sri Lanka,all-rounder,left,pace,right,Right-arm fast,yes,Lahiru Kumara,Sri Lanka,pace,right,Right-arm fast,yes,4751caa3
+428366,Lahiru Madushanka,Lahiru Dilshan Madushanka,Sri Lanka,bowler,right,pace,right,Right-arm fast-medium,yes,Lahiru Madushanka,Sri Lanka,pace,right,Right-arm fast-medium,yes,de063a39
+924551,Lahiru Samarakoon,Samarakoon Mudiyanselage Lahiru Dharshana Samarakoon,Sri Lanka,bowler,left,pace,right,Right-arm fast-medium,yes,Lahiru Samarakoon,Sri Lanka,pace,right,Right-arm fast-medium,yes,d28f4d1c
+704693,Lahiru Udara,Lahiru Udara Igalagamage,Sri Lanka,batsman,right,,,,yes,Lahiru Udara,Sri Lanka,,,,yes,07b6c3c1
+429738,Lakshan Sandakan,Paththamperuma Arachchige Don Lakshan Rangika Sandakan,Sri Lanka,all-rounder,right,spin,left,Left-arm wrist spin,yes,Lakshan Sandakan,Sri Lanka,spin,left,Left-arm wrist-spin,yes,79aad751
+1027867,Lasith Croospulle,Dian Lasith Shenan Croospulle,Sri Lanka,batsman,right,spin,right,Off Break,yes,Lasith Croospulle,Sri Lanka,spin,right,Right-arm offbreak,yes,e30c9b2d
+848109,Lasith Embuldeniya,Lasith Embuldeniya,Sri Lanka,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Lasith Embuldeniya,Sri Lanka,spin,left,Slow left-arm orthodox,yes,b54b66b3
+1138316,Maheesh Theekshana,Morawakage Maheesh Theekshana,Sri Lanka,all-rounder,right,spin,right,Off Break,yes,Maheesh Theekshana,Sri Lanka,spin,right,Right-arm offbreak,yes,f24c6701
+1194795,Matheesha Pathirana,Matheesha Pathirana,Sri Lanka,bowler,right,pace,right,Right-arm fast,yes,Matheesha Pathirana,Sri Lanka,pace,right,Right-arm fast,yes,64839cb3
+1070229,Milan Rathnayake,Rathnayaka Mudiyanselage Milan Priyanath Rathnayaka,Sri Lanka,all-rounder,left,pace,right,Right-arm medium-fast,yes,Milan Rathnayaka,Sri Lanka,pace,right,Right-arm medium-fast,yes,afe830a2
+629075,Minod Bhanuka,Ranasinghe Arachchige Minod Bhanuka Ranasinghe,Sri Lanka,wicketkeeper,left,,,,yes,Minod Bhanuka,Sri Lanka,,,,yes,684d21d7
+801817,Mohamed Shiraz,Katupulle Gedara Mohamed Shiraz Sahab,Sri Lanka,bowler,right,pace,right,Right-arm medium-fast,yes,Mohamed Shiraz,Sri Lanka,pace,right,Right-arm medium-fast,yes,cdac5a3d
+1070154,Nimesh Vimukthi,Mandamarakkalage Nimesh Vimukthi Silva,Sri Lanka,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Nimesh Vimukthi,Sri Lanka,spin,left,Slow left-arm orthodox,yes,b215a7be
+429754,Niroshan Dickwella,Dickwella Patabendige Dilantha Niroshan Dickwella,Sri Lanka,wicketkeeper-batsman,left,,,,yes,Niroshan Dickwella,Sri Lanka,,,,yes,45963d9e
+1126045,Nishan Madushka,Kottasinghakkarage Nishan Madushka Fernando,Sri Lanka,wicketkeeper-batsman,right,,,,yes,Nishan Madushka,Sri Lanka,,,,yes,d2a2bb1a
+821573,Nishan Peiris,Kurukulasooriya Nishan Peiris,Sri Lanka,bowler,left,spin,right,Off Break,yes,Nishan Peiris,Sri Lanka,spin,right,Right-arm offbreak,yes,d0cc2738
+324358,Nuwan Pradeep,Aththachchi Nuwan Pradeep Roshan Fernando,Sri Lanka,all-rounder,right,pace,right,Right-arm fast-medium,yes,Nuwan Pradeep,Sri Lanka,pace,right,Right-arm fast-medium,yes,2af838ee
+955235,Nuwan Thushara,Ilandari Dewage Nuwan Thushara,Sri Lanka,bowler,right,pace,right,Right-arm medium-fast,yes,Nuwan Thushara,Sri Lanka,pace,right,Right-arm medium-fast,yes,ee1b6c27
+1074333,Nuwanidu Fernando,Muthuthanthirige Nuwanidu Keshawa Fernando,Sri Lanka,bowler,right,spin,right,Off Break,yes,Nuwanidu Fernando,Sri Lanka,spin,right,Right-arm offbreak,yes,ba603555
+366725,Oshada Fernando,Bodiyabaduge Oshada Piyumal Fernando,Sri Lanka,batsman,right,spin,right,Leg Break,yes,Oshada Fernando,Sri Lanka,spin,right,Legbreak,yes,1d048deb
+1028655,Pathum Nissanka,Pathum Nissanka Silva,Sri Lanka,batsman,right,,,,yes,Pathum Nissanka,Sri Lanka,,,,yes,8ee36b18
+1171180,Pavan Rathnayake,Pavan Rathnayake,Sri Lanka,batsman,right,spin,right,Off Break,yes,Pavan Rathnayake,Sri Lanka,spin,right,Right-arm offbreak,yes,c1fdfb46
+422871,Prabath Jayasuriya,Neketh Gedara Roshan Prabath Jayasuriya,Sri Lanka,bowler,right,spin,left,Slow left-arm orthodox,yes,Prabath Jayasuriya,Sri Lanka,spin,left,Slow left-arm orthodox,yes,127bc5ca
+826689,Pramod Madushan,Pramod Madushan,Sri Lanka,bowler,right,pace,right,Right-arm medium-fast,no,,,,,,yes,3ee0050f
+1028665,Praveen Jayawickrama,Perumapperuma Arachchige Kaveesha Praveen Jayawickrama,Sri Lanka,bowler,right,spin,left,Slow left-arm orthodox,yes,Praveen Jayawickrama,Sri Lanka,spin,left,Slow left-arm orthodox,yes,b7d1eadd
+629084,Ramesh Mendis,Wanigamuni Ramesh Tarinda Mendis,Sri Lanka,all-rounder,right,spin,right,Off Break,yes,Ramesh Mendis,Sri Lanka,spin,right,Right-arm offbreak,yes,1be67d37
+1217156,Ravindu Fernando,Ravindu Suharshana Fernando,Sri Lanka,bowler,right,spin,right,Off Break,yes,Ravindu Fernando,Sri Lanka,spin,right,Right-arm offbreak,yes,24d72446
+629076,Sadeera Samarawickrama,Wedagedara Sadeera Rashen Samarawickrama,Sri Lanka,batsman,right,,,,yes,Sadeera Samarawickrama,Sri Lanka,,,,yes,9ab2914d
+693975,Sahan Arachchige,Sahan Shashintha Diyamantha Arachchige,Sri Lanka,batsman,left,spin,right,Off Break,yes,Sahan Arachchige,Sri Lanka,spin,right,Right-arm offbreak,yes,c05f9d20
+430391,Sharina Ravikumar,Sharina Ravikumar,Sri Lanka,bowler,right,,left,Left-arm bowler,yes,Sharina Ravikumar,Sri Lanka,,left,Left-arm bowler,yes,5597338d
+1194744,Shevon Daniel,Shevon Daniel,Sri Lanka,bowler,left,spin,right,Off Break,yes,Shevon Daniel,Sri Lanka,spin,right,Right-arm offbreak,yes,a38e7be7
+1153148,Sonal Dinusha,Gamage Sonal Dinusha,Sri Lanka,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Sonal Dinusha,Sri Lanka,spin,left,Slow left-arm orthodox,yes,4bbfddd5
+950405,Tharindu Ratnayake,Konganige Tharindu Hasanka Ratnayake,Sri Lanka,bowler,left,spin,right,Off Break,yes,Tharindu Ratnayake,Sri Lanka,spin,right,Right-arm offbreak,yes,4eb02f2e
+1153149,Vijayakanth Viyaskanth,Vijayakanth Viyaskanth,Sri Lanka,bowler,right,spin,right,Leg Break,yes,Vijayakanth Viyaskanth,Sri Lanka,spin,right,Legbreak,yes,03a83c50
+465783,Vishwa Fernando,Muthuthanthrige Vishwa Thilina Fernando,Sri Lanka,all-rounder,right,pace,left,Left-arm medium-fast,yes,Vishwa Fernando,Sri Lanka,pace,left,Left-arm medium-fast,yes,5eef2118
+784379,Wanindu Hasaranga,Wanindu Hasaranga,Sri Lanka,all-rounder,right,spin,right,Leg Break,no,,,,,,yes,a97c8ec2
+1275056,Ackeem Auguste,Ackeem Wayne Jarrell Auguste,West Indies,bowler,left,spin,right,Leg Break,yes,Ackeem Auguste,West Indies,spin,right,Legbreak,yes,4b167ede
+530812,Akeal Hosein,Akeal Jerome Hosein,West Indies,bowler,left,spin,left,Slow left-arm orthodox,yes,Akeal Hosein,West Indies,spin,left,Slow left-arm orthodox,yes,4d7f517e
+1161669,Akeem Jordan,Akeem Jordan,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Akeem Jordan,West Indies,pace,right,Right-arm fast-medium,yes,77bf0483
+1078692,Alick Athanaze,Alick Athanaze,West Indies,batsman,left,spin,right,Off Break,yes,Alick Athanaze,West Indies,spin,right,Right-arm offbreak,yes,58c2fac4
+670031,Alzarri Joseph,Alzarri Shaheim Joseph,West Indies,bowler,right,pace,right,Right-arm fast,yes,Alzarri Joseph,West Indies,pace,right,Right-arm fast,yes,b0946605
+820681,Amir Jangoo,Amir Anthony Jangoo,West Indies,batsman,left,,,,yes,Amir Jangoo,West Indies,,,,yes,88626ed2
+914467,Anderson Phillip,Anderson Phillip,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Anderson Phillip,West Indies,pace,right,Right-arm fast-medium,yes,f2665768
+51862,Andre Fletcher,Andre David Stephon Fletcher,West Indies,wicketkeeper-batsman,right,pace,right,Right-arm medium-fast,yes,Andre Fletcher,West Indies,pace,right,Right-arm medium-fast,yes,1bae756b
+230556,Andre McCarthy,Andre McIntosh McCarthy,West Indies,bowler,right,spin,right,Off Break,yes,Andre McCarthy,West Indies,spin,right,Right-arm offbreak,yes,7f148ce7
+670035,Brandon King,Brandon Alexander King,West Indies,batsman,right,,,,yes,Brandon King,West Indies,,,,yes,7fca84b7
+914519,Chemar Holder,Chemar Keron Holder,West Indies,bowler,right,pace,right,Right-arm fast,yes,Chemar Holder,West Indies,pace,right,Right-arm fast,yes,f7c3d426
+277472,Darren Bravo,Darren Michael Bravo,West Indies,batsman,left,pace,right,Right-arm medium,yes,Darren Bravo,West Indies,pace,right,Right-arm medium,yes,14b14cd8
+248920,Devon Thomas,Devon Cuthbert Thomas,West Indies,wicketkeeper,right,pace,right,Right-arm medium,yes,Devon Thomas,West Indies,pace,right,Right-arm medium,yes,08a4f9ad
+906749,Dominic Drakes,Dominic Conneil Drakes,West Indies,all-rounder,left,pace,left,Left-arm medium-fast,yes,Dominic Drakes,West Indies,pace,left,Left-arm medium-fast,yes,34b332d3
+431901,Evin Lewis,Evin Lewis,West Indies,batsman,left,,,,no,,,,,,yes,0ebfb1ad
+670013,Fabian Allen,Fabian Anthony Allen,West Indies,all-rounder,right,spin,left,Slow left-arm orthodox,yes,Fabian Allen,West Indies,spin,left,Slow left-arm orthodox,yes,b52ffbbd
+670045,Gudakesh Motie,Gudakesh Motie,West Indies,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Gudakesh Motie,West Indies,spin,left,Slow left-arm orthodox,yes,97bdec3d
+443263,Hayden Walsh,Hayden Rashidi Walsh,West Indies,all-rounder,left,spin,right,Leg Break Googly,yes,Hayden Walsh,West Indies,spin,right,Legbreak googly,yes,1ac2a995
+391485,Jason Holder,Jason Omar Holder,West Indies,all-rounder,right,pace,right,Right-arm medium-fast,yes,Jason Holder,West Indies,pace,right,Right-arm medium-fast,yes,0f721006
+230549,Jason Mohammed,Jason Nazimuddin Mohammed,West Indies,batsman,right,spin,right,Off Break,yes,Jason Mohammed,West Indies,spin,right,Right-arm offbreak,yes,773cec26
+1199304,Jayden Seales,Jayden Nigel Tristen Seales,West Indies,bowler,left,pace,right,Right-arm fast-medium,yes,Jayden Seales,West Indies,pace,right,Right-arm fast-medium,yes,ded9ff1e
+1403089,Jediah Blades,Jediah Blades,West Indies,bowler,right,pace,left,Left-arm fast-medium,no,,,,,,yes,af4a9a0a
+632168,Jeremy Solozano,Jeremy Len Solozano,West Indies,batsman,left,,,,yes,Jeremy Solozano,West Indies,,,,yes,cbc9af54
+431909,Jermaine Blackwood,Jermaine Blackwood,West Indies,batsman,right,spin,right,Off Break,yes,Jermaine Blackwood,West Indies,spin,right,Right-arm offbreak,yes,c3b93a03
+1394273,Jewel Andrew,Jewel Andrew,West Indies,batsman,right,,,,yes,Jewel Andrew,West Indies,,,,yes,6b0db726
+1275943,Johann Layne,Johann Layne,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Johann Layne,West Indies,pace,right,Right-arm fast-medium,yes,2f43ee81
+348026,John Campbell,John Dillon Campbell,West Indies,batsman,left,spin,right,Off Break,yes,John Campbell,West Indies,spin,right,Right-arm offbreak,yes,6fd0c8e1
+333066,Johnson Charles,Johnson Charles,West Indies,batsman,right,,,,yes,Johnson Charles,West Indies,,,,yes,09a9d073
+432214,Jomel Warrican,Jomel Andrel Warrican,West Indies,all-rounder,right,spin,left,Slow left-arm orthodox,yes,Jomel Warrican,West Indies,spin,left,Slow left-arm orthodox,yes,cc23e91e
+1168667,Joshua da Silva,Joshua Da Silva,West Indies,wicketkeeper-batsman,right,,,,yes,Joshua Da Silva,West Indies,,,,yes,bab78fa2
+510823,Justin Greaves,Justin Pierre Greaves,West Indies,all-rounder,right,pace,right,Right-arm medium,yes,Justin Greaves,West Indies,pace,right,Right-arm medium,yes,74d12124
+1139028,Karima Gore,Karima Gore,West Indies,bowler,right,spin,left,Slow left-arm orthodox,yes,Karima Gore,West Indies,spin,left,Slow left-arm orthodox,yes,a6bab2a9
+348091,Kavem Hodge,Kavem Ajoel Rakem Hodge,West Indies,all-rounder,right,spin,left,Slow left-arm orthodox,yes,Kavem Hodge,West Indies,spin,left,Slow left-arm orthodox,yes,49dc9cb4
+820677,Keacy Carty,Keacy Uydess Carty,West Indies,batsman,right,pace,right,Right-arm medium,yes,Keacy Carty,West Indies,pace,right,Right-arm medium,yes,6020a3c6
+677081,Keemo Paul,Keemo Mandela Angus Paul,West Indies,all-rounder,right,pace,right,Right-arm fast-medium,yes,Keemo Paul,West Indies,pace,right,Right-arm fast-medium,yes,75224f22
+230553,Kemar Roach,Kemar Andre Jamal Roach,West Indies,all-rounder,right,pace,right,Right-arm fast-medium,yes,Kemar Roach,West Indies,pace,right,Right-arm fast-medium,yes,78eb4223
+906755,Keon Harding,Keon Jovani Harding,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Keon Harding,West Indies,pace,right,Right-arm fast-medium,yes,714af18b
+1206110,Kevin Sinclair,Kevin Sinclair,West Indies,bowler,right,spin,right,Off Break,yes,Kevin Sinclair,West Indies,spin,right,Right-arm offbreak,yes,314642ed
+1209188,Kevlon Anderson,Kevlon Alston Anderson,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Kevlon Anderson,West Indies,pace,right,Right-arm fast-medium,yes,672d7379
+581160,Khary Pierre,Khary Pierre,West Indies,bowler,left,spin,left,Slow left-arm orthodox,yes,Khary Pierre,West Indies,spin,left,Slow left-arm orthodox,yes,a61bcb94
+252932,Kieran Powell,Kieran Omar Akeem Powell,West Indies,batsman,left,pace,right,Right-arm medium,yes,Kieran Powell,West Indies,pace,right,Right-arm medium,yes,e012ad13
+1209196,Kirk McKenzie,Kirk Sanjay Alexander McKenzie,West Indies,bowler,left,spin,right,Off Break,yes,Kirk McKenzie,West Indies,spin,right,Right-arm offbreak,yes,2b8f219a
+416190,Kjorn Ottley,Kjorn Yohance Ottley,West Indies,bowler,left,spin,right,Off Break,yes,Kjorn Ottley,West Indies,spin,right,Right-arm offbreak,yes,50a92895
+348024,Kraigg Brathwaite,Kraigg Clairmonte Brathwaite,West Indies,batsman,right,spin,right,Off Break,yes,Kraigg Brathwaite,West Indies,spin,right,Right-arm offbreak,yes,7d5af2ea
+348056,Kyle Mayers,Kyle Rico Mayers,West Indies,all-rounder,left,pace,right,Right-arm medium,yes,Kyle Mayers,West Indies,pace,right,Right-arm medium,yes,73c18486
+530814,Marquino Mindley,Marquino Junior Mindley,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Marquino Mindley,West Indies,pace,right,Right-arm fast-medium,yes,b88fa6fe
+1209190,Matthew Forde,Matthew Walter Forde,West Indies,bowler,right,pace,right,Right-arm medium,yes,Matthew Forde,West Indies,pace,right,Right-arm medium,yes,83d17bbc
+1078695,Mikyle Louis,Mikyle Louis,West Indies,batsman,right,spin,right,Leg Break Googly,yes,Mikyle Louis,West Indies,spin,right,Legbreak googly,yes,1d8c298b
+1342547,Navin Bidaisee,Navin Bidaisee,West Indies,bowler,left,spin,right,Leg Break,yes,Navin Bidaisee,West Indies,spin,right,Legbreak,yes,af5b6464
+314650,Nkrumah Bonner,Nkrumah Eljego Bonner,West Indies,batsman,right,spin,right,Leg Break,yes,Nkrumah Bonner,West Indies,spin,right,Legbreak,yes,59ddd811
+906783,Obed McCoy,Obed Christopher McCoy,West Indies,bowler,left,pace,left,Left-arm fast-medium,yes,Obed McCoy,West Indies,pace,left,Left-arm fast-medium,yes,529eb9e0
+820691,Odean Smith,Odean Fabian Smith,West Indies,all-rounder,right,pace,right,Right-arm fast-medium,yes,Odean Smith,West Indies,pace,right,Right-arm fast-medium,yes,23cca426
+1134962,Ojay Shields,Ojay Shields,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Ojay Shields,West Indies,pace,right,Right-arm fast-medium,yes,309feb16
+914567,Oshane Thomas,Oshane Thomas,West Indies,bowler,right,pace,right,Right-arm fast,no,,,,,,yes,c6097d68
+1342550,Quentin Sampson,Quentin Sampson,West Indies,bowler,right,pace,right,Right-arm medium-fast,yes,Quentin Sampson,West Indies,pace,right,Right-arm medium-fast,yes,238ce998
+494581,Rahkeem Cornwall,Rahkeem Rashawn Shane Cornwall,West Indies,all-rounder,right,spin,right,Off Break,yes,Rahkeem Cornwall,West Indies,spin,right,Right-arm offbreak,yes,c4d9634c
+1209197,Ramon Simmonds,Ramon Romario Simmonds,West Indies,bowler,left,pace,left,Left-arm fast-medium,yes,Ramon Simmonds,West Indies,pace,left,Left-arm fast-medium,yes,fcf6b0f6
+450101,Raymon Reifer,Raymon Anton Reifer,West Indies,bowler,left,pace,left,Left-arm medium-fast,yes,Raymon Reifer,West Indies,pace,left,Left-arm medium-fast,yes,d7725664
+677077,Romario Shepherd,Romario Shepherd,West Indies,all-rounder,right,pace,right,Right-arm fast-medium,yes,Romario Shepherd,West Indies,pace,right,Right-arm fast-medium,yes,c5aef772
+391832,Roston Chase,Roston Lamar Chase,West Indies,all-rounder,right,spin,right,Off Break,yes,Roston Chase,West Indies,spin,right,Right-arm offbreak,yes,3feda4fa
+820351,Rovman Powell,Rovman Powell,West Indies,all-rounder,right,pace,right,Right-arm medium-fast,no,,,,,,yes,650d5e49
+581379,Shai Hope,Shai Diego Hope,West Indies,wicketkeeper-batsman,right,,,,yes,Shai Hope,West Indies,,,,yes,1fc6ef83
+1356971,Shamar Joseph,Shamar Joseph,West Indies,bowler,right,pace,right,Right-arm fast,no,,,,,,yes,97290faf
+820689,Shamar Springer,Shamar Kamal Springer,West Indies,bowler,right,pace,right,Right-arm fast-medium,yes,Shamar Springer,West Indies,pace,right,Right-arm fast-medium,yes,4175d211
+230555,Shamarh Brooks,Shamarh Shaqad Joshua Brooks,West Indies,batsman,right,spin,right,Leg Break,yes,Shamarh Brooks,West Indies,spin,right,Legbreak,yes,977b841a
+851501,Shayne Moseley,Shayne Akeel Richard Moseley,West Indies,batsman,left,pace,right,Right-arm medium,yes,Shayne Moseley,West Indies,pace,right,Right-arm medium,yes,c488b6ac
+495551,Sheldon Cottrell,Sheldon Shane Cottrell,West Indies,all-rounder,right,pace,left,Left-arm fast-medium,yes,Sheldon Cottrell,West Indies,pace,left,Left-arm fast-medium,yes,a1d053dd
+914541,Sherfane Rutherford,Sherfane Eviston Rutherford,West Indies,all-rounder,left,pace,right,Right-arm fast-medium,yes,Sherfane Rutherford,West Indies,pace,right,Right-arm fast-medium,yes,d014d5ac
+1086206,Shermon Lewis,Shermon Hakim Lewis,West Indies,bowler,right,pace,right,Right-arm fast,yes,Shermon Lewis,West Indies,pace,right,Right-arm fast,yes,210f4a5d
+670025,Shimron Hetmyer,Shimron Odilon Hetmyer,West Indies,batsman,left,,,,yes,Shimron Hetmyer,West Indies,,,,yes,48a1d7b7
+348054,Sunil Ambris,Sunil Walford Ambris,West Indies,batsman,right,,,,yes,Sunil Ambris,West Indies,,,,yes,c7f6dd3b
+601968,Tagenarine Chanderpaul,Tagenarine Chanderpaul,West Indies,batsman,left,spin,right,Leg Break,yes,Tagenarine Chanderpaul,West Indies,spin,right,Legbreak,yes,80c6ed7d
+1275935,Teddy Bishop,Teddy J Bishop,West Indies,batsman,right,,,,yes,Teddy Bishop,West Indies,,,,yes,c68554a6
+1152714,Terrance Hinds,Terrance Hinds,West Indies,bowler,right,pace,right,Right-arm medium-fast,yes,Terrance Hinds,West Indies,pace,right,Right-arm medium-fast,yes,45a62071
+914523,Tevin Imlach,Tevin Adrian Imlach,West Indies,wicketkeeper,right,,,,yes,Tevin Imlach,West Indies,,,,yes,f0f8f105
+274921,Veerasammy Permaul,Veerasammy Permaul,West Indies,bowler,right,spin,left,Slow left-arm orthodox,yes,Veerasammy Permaul,West Indies,spin,left,Slow left-arm orthodox,yes,78dfe704
+399276,Vishaul Singh,Vishaul Anthony Singh,West Indies,bowler,left,spin,left,Slow left-arm orthodox,yes,Vishaul Singh,West Indies,spin,left,Slow left-arm orthodox,yes,d7a5d416
+431902,Yannic Cariah,Yannic Cariah,West Indies,bowler,left,spin,right,Leg Break,yes,Yannic Cariah,West Indies,spin,right,Legbreak,yes,78bb68d4
+1420097,Zishan Motara,Zishan Motara,West Indies,bowler,right,spin,right,Leg Break,yes,Zishan Motara,West Indies,spin,right,Legbreak,yes,e796c63a
+596456,Ainsley Ndlovu,Ainsley Ndlovu,Zimbabwe,bowler,right,spin,left,Slow left-arm orthodox,yes,Ainsley Ndlovu,Zimbabwe,spin,left,Slow left-arm orthodox,yes,3abe1ef6
+910695,Ben Curran,Benjamin Jack Curran,Zimbabwe,batsman,left,spin,right,Off Break,yes,Ben Curran,Zimbabwe,spin,right,Right-arm offbreak,yes,1786a21b
+827051,Blessing Muzarabani,Blessing Muzarabani,Zimbabwe,all-rounder,right,pace,right,Right-arm fast-medium,yes,Blessing Muzarabani,Zimbabwe,pace,right,Right-arm fast-medium,yes,449f4e3c
+696127,Brad Evans,Brad Evans,Zimbabwe,all-rounder,right,pace,right,Right-arm fast,yes,Brad Evans,Zimbabwe,pace,right,Right-arm fast,yes,e7e86505
+806239,Brandon Mavuta,Brandon Anesu Mavuta,Zimbabwe,all-rounder,right,spin,right,Leg Break,yes,Brandon Mavuta,Zimbabwe,spin,right,Legbreak,yes,dadb9703
+55814,Brendan Taylor,Brendan Ross Murray Taylor,Zimbabwe,wicketkeeper-batsman,right,spin,right,Off Break,yes,Brendan Taylor,Zimbabwe,spin,right,Right-arm offbreak,yes,53597be1
+1071484,Brian Bennett,Brian John Bennett,Zimbabwe,batsman,right,spin,right,Off Break,yes,Brian Bennett,Zimbabwe,spin,right,Right-arm offbreak,yes,eaa36b2a
+672775,Carl Mumba,Carl Tapfuma Mumba,Zimbabwe,bowler,right,pace,right,Right-arm fast-medium,yes,Carl Mumba,Zimbabwe,pace,right,Right-arm fast-medium,yes,28496266
+55354,Chamunorwa Chibhabha,Chamunorwa Justice Chibhabha,Zimbabwe,all-rounder,right,pace,right,Right-arm medium,yes,Chamu Chibhabha,Zimbabwe,pace,right,Right-arm medium,yes,f32dbc84
+1045883,Clive Madande,Clive Madande,Zimbabwe,wicketkeeper,right,,,,yes,Clive Madande,Zimbabwe,,,,yes,3560a786
+55412,Craig Ervine,Craig Richard Ervine,Zimbabwe,batsman,left,spin,right,Off Break,yes,Craig Ervine,Zimbabwe,spin,right,Right-arm offbreak,yes,c96311d4
+946517,Dion Myers,Dion Nephy Myers,Zimbabwe,batsman,right,pace,right,Right-arm medium,yes,Dion Myers,Zimbabwe,pace,right,Right-arm medium,yes,d96165b5
+392945,Donald Tiripano,Donald Tatenda Tiripano,Zimbabwe,all-rounder,right,pace,right,Right-arm fast-medium,yes,Donald Tiripano,Zimbabwe,pace,right,Right-arm fast-medium,yes,dbfb8218
+728085,Ernest Masuku,Ernest Masuku,Zimbabwe,bowler,right,pace,right,Right-arm medium,yes,Ernest Masuku,Zimbabwe,pace,right,Right-arm medium,yes,7e6e7274
+232438,Gary Ballance,Gary Simon Ballance,Zimbabwe,batsman,left,spin,right,Leg Break,yes,Gary Ballance,Zimbabwe,spin,right,Legbreak,yes,755a77c6
+55346,Graeme Cremer,Alexander Graeme Cremer,Zimbabwe,all-rounder,right,spin,right,Leg Break Googly,yes,Graeme Cremer,Zimbabwe,spin,right,Legbreak googly,yes,9f0270e0
+465327,Innocent Kaia,Innocent Kaia,Zimbabwe,batsman,right,spin,right,Leg Break,yes,Innocent Kaia,Zimbabwe,spin,right,Legbreak,yes,5ad8c974
+722313,John Masara,John Kumbirai Masara,Zimbabwe,bowler,right,spin,right,Leg Break,yes,John Masara,Zimbabwe,spin,right,Legbreak,yes,e5542f57
+596376,Joylord Gumbie,Joylord Gumbie,Zimbabwe,wicketkeeper,right,,,,yes,Joylord Gumbie,Zimbabwe,,,,yes,c8d74c21
+453274,Kevin Kasuza,Kevin Tatenda Kasuza,Zimbabwe,bowler,right,spin,right,Off Break,yes,Kevin Kasuza,Zimbabwe,spin,right,Right-arm offbreak,yes,8f93efd3
+696135,Kundai Matigimu,Kundai Matigimu,Zimbabwe,bowler,right,pace,right,Right-arm fast,yes,Kundai Matigimu,Zimbabwe,pace,right,Right-arm fast,yes,f8929fe0
+541224,Luke Jongwe,Luke Mafuwa Jongwe,Zimbabwe,all-rounder,right,pace,right,Right-arm fast-medium,yes,Luke Jongwe,Zimbabwe,pace,right,Right-arm fast-medium,yes,b8704508
+951781,Milton Shumba,Milton Shumba,Zimbabwe,batsman,left,spin,left,Slow left-arm orthodox,yes,Milton Shumba,Zimbabwe,spin,left,Slow left-arm orthodox,yes,6766ca00
+1122851,Mohammad Akram,Mohammad Faraz Akram,Zimbabwe,bowler,left,pace,right,Right-arm medium,yes,Faraz Akram,Zimbabwe,pace,right,Right-arm medium,yes,38214163
+1409283,Newman Nyamhuri,Newman Takudzwa Nyamhuri,Zimbabwe,bowler,right,pace,left,Left-arm fast-medium,yes,Newman Nyamhuri,Zimbabwe,pace,left,Left-arm fast-medium,yes,943ca0cd
+696145,Nicholas Welch,Nicholas Roy Welch,Zimbabwe,bowler,right,spin,right,Leg Break Googly,yes,Nick Welch,Zimbabwe,spin,right,Legbreak googly,yes,74c6c6e0
+493753,Nyasha Mayavo,Nyasha Prince Mayavo,Zimbabwe,bowler,right,spin,right,Leg Break,yes,Nyasha Mayavo,Zimbabwe,spin,right,Legbreak,yes,28fcb027
+232442,Prince Masvaure,Prince Spencer Masvaure,Zimbabwe,bowler,left,pace,left,Left-arm fast-medium,yes,Prince Masvaure,Zimbabwe,pace,left,Left-arm fast-medium,yes,c4d740b3
+293831,Regis Chakabva,Regis Wiriranai Chakabva,Zimbabwe,wicketkeeper-batsman,right,spin,right,Off Break,yes,Regis Chakabva,Zimbabwe,spin,right,Right-arm offbreak,yes,2f0d7e4a
+806241,Richard Ngarava,Richard Ngarava,Zimbabwe,bowler,left,pace,left,Left-arm fast-medium,yes,Richard Ngarava,Zimbabwe,pace,left,Left-arm fast-medium,yes,6e3f5a5c
+235516,Richmond Mutumbami,Richmond Mutumbami,Zimbabwe,wicketkeeper-batsman,right,spin,right,Off Break,yes,Richmond Mutumbami,Zimbabwe,spin,right,Right-arm offbreak,yes,5fef85ee
+392946,Roy Kaia,Roy Kaia,Zimbabwe,bowler,right,spin,right,Off Break,yes,Roy Kaia,Zimbabwe,spin,right,Right-arm offbreak,yes,e3dd0d8e
+495964,Ryan Burl,Ryan Ponsonby Burl,Zimbabwe,all-rounder,left,spin,right,Leg Break,yes,Ryan Burl,Zimbabwe,spin,right,Legbreak,yes,b08252b8
+299572,Sikandar Raza,Sikandar Raza Butt,Zimbabwe,all-rounder,right,spin,right,Off Break,yes,Sikandar Raza,Zimbabwe,spin,right,Right-arm offbreak,yes,26d041c4
+946507,Tadiwanashe Marumani,Tadiwanashe Marumani,Zimbabwe,wicketkeeper-batsman,left,spin,right,Off Break,no,,,,,,yes,3d5d51a5
+722321,Tafadzwa Tsiga,Tafadzwa Emmanuel Tsiga,Zimbabwe,wicketkeeper,right,pace,right,Right-arm medium,yes,Tafadzwa Tsiga,Zimbabwe,pace,right,Right-arm medium,yes,a1dcb5b9
+493765,Takudzwanashe Kaitano,Takudzwanashe Kaitano,Zimbabwe,bowler,right,spin,right,Off Break,yes,Takudzwanashe Kaitano,Zimbabwe,spin,right,Right-arm offbreak,yes,df7ed601
+1059122,Tanaka Chivanga,Tanaka Lance Chivanga,Zimbabwe,bowler,right,pace,right,Right-arm fast,yes,Tanaka Chivanga,Zimbabwe,pace,right,Right-arm fast,yes,61fb296e
+1037845,Tanunurwa Makoni,Tanunurwa V Makoni,Zimbabwe,bowler,right,pace,right,Right-arm medium,yes,Tanunurwa Makoni,Zimbabwe,pace,right,Right-arm medium,yes,40d37b33
+453321,Tapiwa Mufudza,Tapiwa Mufudza,Zimbabwe,bowler,right,spin,right,Off Break,yes,Tapiwa Mufudza,Zimbabwe,spin,right,Right-arm offbreak,yes,d38b80df
+596375,Tarisai Musakanda,Tarisai Kenneth Musakanda,Zimbabwe,batsman,right,pace,right,Right-arm medium,yes,Tarisai Musakanda,Zimbabwe,pace,right,Right-arm medium,yes,9f9b903e
+1258606,Tashinga Musekiwa,Tashinga Musekiwa,Zimbabwe,batsman,right,pace,right,Right-arm medium,yes,Tashinga Musekiwa,Zimbabwe,pace,right,Right-arm medium,yes,06fc82b8
+425639,Tendai Chatara,Tendai Larry Chatara,Zimbabwe,all-rounder,right,pace,right,Right-arm fast-medium,yes,Tendai Chatara,Zimbabwe,pace,right,Right-arm fast-medium,yes,5bbabe59
+235519,Tendai Chisoro,Tendai Sam Chisoro,Zimbabwe,all-rounder,left,pace,left,Left-arm fast-medium,yes,Tendai Chisoro,Zimbabwe,pace,left,Left-arm fast-medium,yes,4b2d6789
+235524,Timycen Maruma,Timycen Hlahla Maruma,Zimbabwe,batsman,right,spin,right,Leg Break Googly,yes,Timycen Maruma,Zimbabwe,spin,right,Legbreak googly,yes,f55c526f
+713811,Tinashe Kamunhukamwe,Tinashe Stephen Kamunhukamwe,Zimbabwe,batsman,right,spin,right,Off Break,yes,Tinashe Kamunhukamwe,Zimbabwe,spin,right,Right-arm offbreak,yes,4e1b4323
+1360042,Tinotenda Maposa,Tinotenda Tinashe Maposa,Zimbabwe,bowler,right,pace,right,Right-arm medium,yes,Tinotenda Maposa,Zimbabwe,pace,right,Right-arm medium,yes,5feead83
+1122853,Tony Munyonga,Tony Tanaka Munyonga,Zimbabwe,batsman,right,spin,right,Off Break,yes,Tony Munyonga,Zimbabwe,spin,right,Right-arm offbreak,yes,fbcfa528
+1038205,Trevor Gwandu,Trevor Wesley Gwandu,Zimbabwe,bowler,right,pace,right,Right-arm medium,yes,Trevor Gwandu,Zimbabwe,pace,right,Right-arm medium,yes,d1d83db3
+453277,Victor Nyauchi,Victor Munyaradzi Nyauchi,Zimbabwe,bowler,right,pace,right,Right-arm fast-medium,yes,Victor Nyauchi,Zimbabwe,pace,right,Right-arm fast-medium,yes,1bd16445
+1122854,Vincent Masekesa,Vincent Masekesa,Zimbabwe,bowler,right,spin,right,Leg Break,yes,Vincent Masekesa,Zimbabwe,spin,right,Legbreak,yes,42b34cb1
+571703,Wellington Masakadza,Wellington Pedzisai Masakadza,Zimbabwe,all-rounder,left,spin,left,Slow left-arm orthodox,yes,Wellington Masakadza,Zimbabwe,spin,left,Slow left-arm orthodox,yes,4bc0a378
+938959,Wessly Madhevere,Wessly Nyasha Madhevere,Zimbabwe,all-rounder,right,spin,right,Off Break,yes,Wessly Madhevere,Zimbabwe,spin,right,Right-arm offbreak,yes,a879b92c
